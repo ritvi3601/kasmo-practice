@@ -1,0 +1,52 @@
+[
+  {
+    "project_id": "HCL001",
+    "project_name": "Cloud Infra Automation",
+    "client": {
+      "name": "FinTrust Corp",
+      "industry": "Banking",
+      "location": {
+        "city": "New York",
+        "country": "USA"
+      }
+    },
+    "technologies": ["AWS", "Terraform", "Python"],
+    "status": "In Progress",
+    "team": {
+      "project_manager": "Amit Sinha",
+      "members": [
+        {"name": "Riya Mehta", "role": "DevOps Engineer"},
+        {"name": "Sagar Patel", "role": "Cloud Architect"}
+      ]
+    },
+    "milestones": [
+      {"name": "Setup Infrastructure", "due_date": "2024-06-01"},
+      {"name": "Monitoring & Alerts", "due_date": "2024-07-01"}
+    ]
+  },
+  {
+    "project_id": "HCL002",
+    "project_name": "Retail Analytics Platform",
+    "client": {
+      "name": "TrendBuy",
+      "industry": "Retail",
+      "location": {
+        "city": "London",
+        "country": "UK"
+      }
+    },
+    "technologies": ["Azure", "Databricks", "Power BI"],
+    "status": "Planned",
+    "team": {
+      "project_manager": "Pooja Reddy",
+      "members": [
+        {"name": "Anil Kumar", "role": "Data Engineer"},
+        {"name": "Nidhi Das", "role": "Business Analyst"}
+      ]
+    },
+    "milestones": [
+      {"name": "Data Lake Setup", "due_date": "2024-08-01"},
+      {"name": "Dashboard Delivery", "due_date": "2024-09-15"}
+    ]
+  }
+]
