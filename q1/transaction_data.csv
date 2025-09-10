@@ -1,0 +1,1001 @@
+transaction_id,customer_id,amount,transaction_date,product_category,payment_method,store_location
+1,565,2992.47,3/10/2025 1:20,Sports,Debit Card,New York
+2,323,2041.87,1/2/2025 15:24,Clothing,Cash,New York
+3,398,107.35,2/16/2025 3:49,Beauty,Debit Card,Online
+4,19,,4/30/2025 15:26,Sports,Debit Card,Los Angeles
+5,547,3063.28,6/14/2025 4:28,Clothing,PayPal,Los Angeles
+6,752,441.49,3/28/2025 6:15,Electronics,Cash,New York
+7,615,3027.38,3/18/2025 15:59,Beauty,Credit Card,Chicago
+8,1,2652.57,4/19/2025 14:46,Home,Credit Card,New York
+9,200,2821.46,1/22/2025 19:12,Electronics,PayPal,New York
+10,757,3896.31,2/27/2025 9:18,Clothing,PayPal,Los Angeles
+11,548,3925.15,2/20/2025 5:53,Sports,Credit Card,Online
+12,576,1287.14,3/22/2025 2:04,Beauty,Credit Card,Miami
+13,286,2071.72,5/6/2025 3:01,Clothing,Cash,Miami
+14,579,,4/16/2025 20:54,Home,Cash,Online
+15,927,4349.07,1/7/2025 17:00,Beauty,Debit Card,Chicago
+16,169,366.17,1/19/2025 13:22,Electronics,Cash,New York
+17,724,1616.35,3/26/2025 18:46,Sports,Debit Card,Chicago
+18,923,2523.63,1/1/2025 13:36,Electronics,Credit Card,New York
+19,111,15.1,6/1/2025 12:01,Beauty,Cash,Los Angeles
+20,48,4357.9,3/27/2025 6:31,Electronics,Debit Card,New York
+21,752,2707.82,5/26/2025 7:35,Clothing,Credit Card,Miami
+22,609,4341.42,4/18/2025 0:36,Sports,Cash,Online
+23,303,1108.71,1/22/2025 10:42,Electronics,Credit Card,Miami
+24,184,,2/27/2025 13:58,Beauty,Debit Card,Los Angeles
+25,657,3206.91,4/28/2025 12:32,Clothing,Credit Card,New York
+26,744,,4/23/2025 2:38,Beauty,PayPal,New York
+27,154,543.27,4/20/2025 5:02,Beauty,PayPal,New York
+28,659,2712.18,2/1/2025 3:32,Sports,Cash,Online
+29,469,159.61,2/28/2025 10:32,Electronics,Debit Card,Chicago
+30,534,2749.55,5/20/2025 0:18,Electronics,Debit Card,Miami
+31,433,1330.01,1/27/2025 2:30,Clothing,PayPal,Los Angeles
+32,877,1208.22,2/16/2025 10:54,Home,Debit Card,Los Angeles
+33,259,2011.03,1/23/2025 21:57,Home,Debit Card,Online
+34,838,,1/30/2025 22:27,Clothing,Cash,Los Angeles
+35,208,3632.29,1/25/2025 13:36,Home,Cash,Los Angeles
+36,271,3320.88,3/14/2025 10:20,Beauty,Debit Card,Miami
+37,59,1305.45,6/4/2025 0:50,Sports,Credit Card,New York
+38,377,4321.29,4/28/2025 7:17,Beauty,Debit Card,New York
+39,223,454.05,3/4/2025 18:16,Clothing,Cash,Chicago
+40,922,3722.38,1/11/2025 7:26,Sports,Cash,Online
+41,210,4484.24,1/27/2025 13:52,Beauty,Cash,Los Angeles
+42,833,2408.29,3/13/2025 17:49,Sports,Credit Card,Los Angeles
+43,76,4803.45,3/14/2025 23:35,Electronics,Cash,Miami
+44,837,3422.42,3/21/2025 19:56,Home,Cash,Miami
+45,997,480.64,1/6/2025 8:27,Home,Credit Card,Los Angeles
+46,210,4277.78,2/23/2025 4:30,Beauty,Credit Card,Online
+47,704,4559.71,4/27/2025 10:19,Beauty,Credit Card,Chicago
+48,171,1722.4,6/2/2025 12:22,Clothing,Credit Card,Los Angeles
+49,752,1431.1,1/19/2025 9:07,Electronics,PayPal,New York
+50,67,4775.53,1/5/2025 8:26,Electronics,Debit Card,Online
+51,144,330.69,4/17/2025 23:16,Beauty,Cash,New York
+52,509,1589.99,5/18/2025 16:10,Clothing,Cash,Chicago
+53,123,2158.73,5/17/2025 5:13,Home,Debit Card,Online
+54,902,2431.82,1/11/2025 22:57,Beauty,Debit Card,Miami
+55,917,1814.91,2/22/2025 11:33,Beauty,Credit Card,New York
+56,676,2543.2,1/23/2025 9:11,Electronics,Credit Card,New York
+57,710,1248.98,1/27/2025 11:07,Sports,Cash,Chicago
+58,763,4785.24,4/8/2025 13:25,Sports,Debit Card,New York
+59,218,1342.26,4/25/2025 0:29,Sports,Credit Card,Miami
+60,966,986.61,4/29/2025 3:38,Home,PayPal,New York
+61,436,3811.29,5/2/2025 19:08,Home,PayPal,Los Angeles
+62,995,4299.69,1/4/2025 19:54,Electronics,Debit Card,New York
+63,989,593.22,5/3/2025 13:04,Clothing,PayPal,Los Angeles
+64,434,1654.41,4/20/2025 1:34,Clothing,Credit Card,Online
+65,67,3716.87,4/11/2025 18:34,Electronics,Cash,Online
+66,762,2433.39,4/3/2025 3:52,Sports,Debit Card,Chicago
+67,564,38.38,6/12/2025 13:08,Sports,Debit Card,Miami
+68,719,4568.21,4/5/2025 0:46,Home,Credit Card,Los Angeles
+69,383,3937.65,3/27/2025 18:47,Clothing,Debit Card,Chicago
+70,32,1272.21,4/3/2025 7:26,Sports,Debit Card,Miami
+71,55,1594.86,2/8/2025 21:00,Electronics,Debit Card,Los Angeles
+72,166,2510.17,2/24/2025 12:52,Clothing,PayPal,New York
+73,87,1220.34,2/25/2025 16:03,Sports,Debit Card,Miami
+74,401,2041.88,2/28/2025 16:28,Clothing,Credit Card,Chicago
+75,491,2100.21,5/3/2025 16:31,Clothing,Cash,Chicago
+76,741,3940.23,1/2/2025 12:32,Clothing,PayPal,Online
+77,373,4614.19,3/17/2025 15:41,Home,Debit Card,New York
+78,296,3743.55,2/4/2025 8:17,Home,Credit Card,Chicago
+79,669,435.05,5/16/2025 17:10,Home,PayPal,Chicago
+80,662,200.34,1/13/2025 1:30,Beauty,Credit Card,Chicago
+81,760,4100.09,1/27/2025 2:35,Sports,Credit Card,New York
+82,243,301.28,3/21/2025 15:15,Beauty,Cash,New York
+83,707,692.14,5/10/2025 9:06,Electronics,PayPal,Online
+84,80,3686.68,2/7/2025 7:07,Electronics,Debit Card,Online
+85,531,4690.75,2/20/2025 1:20,Clothing,Debit Card,Chicago
+86,153,4077.96,4/3/2025 16:48,Sports,Debit Card,Miami
+87,598,1632.77,6/5/2025 5:43,Clothing,PayPal,Miami
+88,683,1574.76,4/19/2025 7:18,Beauty,Cash,Online
+89,688,1378.09,6/14/2025 3:58,Clothing,Debit Card,Chicago
+90,252,3704.49,6/11/2025 3:03,Sports,Debit Card,Chicago
+91,373,457.98,1/11/2025 1:40,Clothing,Credit Card,Los Angeles
+92,780,1087.77,6/6/2025 19:12,Beauty,Debit Card,New York
+93,831,4250.2,5/25/2025 1:40,Beauty,Cash,Miami
+94,83,4045.33,5/3/2025 21:04,Sports,Cash,Chicago
+95,102,4979.11,4/24/2025 16:42,Sports,Cash,Los Angeles
+96,936,2288.29,4/20/2025 13:30,Electronics,Cash,Miami
+97,534,2013.88,1/15/2025 8:36,Sports,PayPal,Online
+98,270,3274.94,3/1/2025 10:19,Electronics,Cash,Online
+99,19,4361.19,5/27/2025 16:17,Electronics,Credit Card,Chicago
+100,372,2884.53,1/4/2025 9:03,Clothing,PayPal,New York
+101,817,1893.09,4/16/2025 14:24,Clothing,Cash,Online
+102,402,2067,2/6/2025 10:36,Electronics,Cash,Los Angeles
+103,129,3977.43,6/11/2025 22:59,Beauty,Cash,Chicago
+104,928,,4/20/2025 2:32,Beauty,Cash,New York
+105,735,3802.28,2/12/2025 3:19,Home,PayPal,New York
+106,817,3604.29,4/24/2025 9:41,Clothing,Cash,Los Angeles
+107,814,3738.7,1/17/2025 23:04,Home,Credit Card,Online
+108,854,2458.61,4/14/2025 9:08,Home,Debit Card,New York
+109,805,4463.67,4/25/2025 6:17,Beauty,Debit Card,Miami
+110,632,,2/17/2025 13:45,Sports,Cash,New York
+111,576,2177.12,1/9/2025 3:39,Beauty,Credit Card,Chicago
+112,541,2660.53,5/30/2025 17:31,Electronics,Credit Card,Online
+113,493,3127.99,3/14/2025 7:15,Electronics,PayPal,Chicago
+114,422,304.55,4/25/2025 8:06,Sports,PayPal,New York
+115,617,1006.88,1/22/2025 5:12,Electronics,Debit Card,Chicago
+116,17,404.66,5/15/2025 9:16,Home,Debit Card,New York
+117,140,516.83,6/6/2025 19:04,Electronics,PayPal,Miami
+118,568,3350.57,2/22/2025 5:53,Clothing,Credit Card,Online
+119,100,3231.06,2/17/2025 18:59,Clothing,PayPal,Los Angeles
+120,461,152.07,1/26/2025 22:39,Sports,Credit Card,Miami
+121,671,2121.15,6/9/2025 17:45,Electronics,Debit Card,Los Angeles
+122,627,3969.06,1/17/2025 9:27,Home,Debit Card,New York
+123,464,1249.01,4/1/2025 1:16,Beauty,Credit Card,Los Angeles
+124,841,4277.32,6/2/2025 9:27,Sports,Debit Card,New York
+125,408,1621.62,2/7/2025 15:10,Electronics,Credit Card,Chicago
+126,12,3696.64,2/15/2025 19:59,Beauty,Cash,Online
+127,584,512.92,4/21/2025 5:10,Sports,Credit Card,Online
+128,840,2214.43,3/24/2025 6:31,Clothing,Credit Card,Los Angeles
+129,995,4653.24,4/25/2025 23:19,Beauty,Cash,Chicago
+130,35,3691.23,1/18/2025 18:29,Home,Debit Card,Online
+131,836,1913.75,2/6/2025 7:55,Home,Debit Card,Los Angeles
+132,346,4689.16,5/20/2025 8:00,Electronics,Cash,Online
+133,24,979.81,6/13/2025 5:19,Electronics,PayPal,Online
+134,106,4710.53,1/5/2025 23:59,Home,Cash,New York
+135,850,4142.98,1/23/2025 17:28,Clothing,PayPal,Los Angeles
+136,486,4597.5,3/24/2025 17:03,Beauty,Credit Card,Miami
+137,33,4934.62,3/28/2025 19:03,Electronics,Cash,Online
+138,372,46.56,1/31/2025 10:19,Beauty,Debit Card,Chicago
+139,283,4270.05,5/15/2025 1:20,Home,PayPal,Online
+140,946,4771.85,2/20/2025 2:00,Sports,Debit Card,Chicago
+141,24,1164.89,6/5/2025 9:17,Clothing,Debit Card,Chicago
+142,283,3371.6,2/25/2025 14:09,Home,PayPal,Chicago
+143,855,2371.54,4/28/2025 10:13,Home,Cash,New York
+144,901,4640.09,1/17/2025 4:11,Sports,Debit Card,Miami
+145,496,512.78,5/27/2025 14:31,Clothing,Debit Card,New York
+146,793,4439.15,4/29/2025 0:59,Beauty,Debit Card,Online
+147,735,202.73,1/14/2025 13:19,Home,Debit Card,Miami
+148,94,299.95,2/17/2025 17:43,Sports,Debit Card,Miami
+149,697,4683.07,5/13/2025 0:48,Electronics,Credit Card,New York
+150,507,1548.34,2/28/2025 14:33,Home,Cash,New York
+151,849,4016.28,4/25/2025 11:30,Clothing,Credit Card,Los Angeles
+152,760,3421.32,1/1/2025 7:11,Home,Credit Card,Chicago
+153,152,1667.64,6/17/2025 0:20,Sports,Debit Card,New York
+154,184,,4/1/2025 12:35,Beauty,Debit Card,Chicago
+155,107,398.62,4/3/2025 9:15,Home,Debit Card,Online
+156,131,3292.45,5/13/2025 10:00,Home,Credit Card,Online
+157,488,4240.74,4/5/2025 23:06,Beauty,PayPal,New York
+158,127,1493.13,3/17/2025 7:44,Beauty,Debit Card,New York
+159,542,46.65,4/6/2025 15:31,Electronics,PayPal,Chicago
+160,607,1349.06,5/2/2025 10:29,Home,Debit Card,Online
+161,298,1192.58,3/1/2025 8:22,Home,Cash,Chicago
+162,391,3058.64,5/4/2025 16:40,Beauty,Cash,Los Angeles
+163,317,4536,4/2/2025 23:28,Sports,Debit Card,Online
+164,902,1493.73,3/1/2025 4:51,Home,Credit Card,Chicago
+165,286,262.11,1/24/2025 20:20,Beauty,PayPal,Online
+166,253,3244.47,1/21/2025 1:34,Electronics,Debit Card,New York
+167,326,636.68,5/11/2025 20:03,Electronics,Cash,Miami
+168,476,316.25,5/30/2025 12:31,Sports,Cash,Miami
+169,479,3165.42,5/27/2025 4:51,Clothing,PayPal,Miami
+170,40,3335.28,5/3/2025 6:40,Sports,Cash,Chicago
+171,991,3346.4,5/29/2025 20:17,Clothing,Cash,Miami
+172,654,346.08,5/18/2025 19:20,Home,Cash,Online
+173,10,3456.05,4/15/2025 19:26,Home,Debit Card,Online
+174,513,4212.29,4/2/2025 17:01,Home,PayPal,New York
+175,736,3851.13,3/8/2025 15:06,Clothing,PayPal,Online
+176,21,4674.53,2/25/2025 15:55,Clothing,Credit Card,Miami
+177,141,313.18,4/21/2025 16:54,Clothing,Debit Card,Chicago
+178,212,657.49,5/19/2025 7:11,Home,PayPal,Chicago
+179,542,4636.94,3/29/2025 2:45,Beauty,PayPal,Online
+180,53,4547.68,4/26/2025 12:07,Clothing,PayPal,Online
+181,103,1274.08,3/31/2025 12:04,Beauty,Cash,Miami
+182,482,4594.95,3/8/2025 12:27,Clothing,Cash,Chicago
+183,379,869.64,5/25/2025 1:31,Clothing,PayPal,Los Angeles
+184,438,1825.56,2/17/2025 20:45,Electronics,PayPal,Online
+185,679,1764.94,5/27/2025 2:03,Beauty,Credit Card,Chicago
+186,113,478.7,5/13/2025 20:14,Beauty,Credit Card,Online
+187,936,972.07,4/15/2025 18:20,Electronics,Credit Card,Miami
+188,383,3622.81,6/8/2025 13:53,Electronics,Cash,Miami
+189,345,968.97,4/20/2025 4:24,Clothing,Credit Card,Miami
+190,63,1400.65,2/7/2025 6:11,Clothing,Credit Card,New York
+191,248,4136.33,5/23/2025 8:37,Clothing,Debit Card,Online
+192,817,1147.55,2/2/2025 4:43,Beauty,Credit Card,Chicago
+193,472,3107.41,5/21/2025 14:29,Beauty,Credit Card,Online
+194,312,2422.86,1/13/2025 13:45,Clothing,PayPal,Online
+195,20,746.43,4/2/2025 2:14,Home,PayPal,Miami
+196,84,2123.96,4/11/2025 9:35,Sports,Cash,Los Angeles
+197,697,4736.17,3/20/2025 15:49,Clothing,Credit Card,Online
+198,394,2731.16,1/5/2025 6:20,Beauty,Credit Card,Los Angeles
+199,872,4564.57,5/20/2025 8:21,Electronics,Debit Card,Online
+200,395,355.24,4/16/2025 1:56,Clothing,Credit Card,Los Angeles
+201,781,2591.08,5/12/2025 22:56,Electronics,PayPal,Miami
+202,301,4330.1,4/8/2025 6:17,Clothing,Debit Card,Chicago
+203,875,844.11,4/8/2025 7:13,Sports,Credit Card,Los Angeles
+204,37,1944.72,2/3/2025 17:50,Sports,Credit Card,Miami
+205,216,607.75,2/6/2025 6:10,Electronics,Debit Card,Chicago
+206,769,2213.26,1/8/2025 11:02,Sports,Cash,Chicago
+207,669,1160.19,2/18/2025 21:17,Home,Credit Card,Los Angeles
+208,610,269.26,2/15/2025 23:12,Home,Debit Card,Chicago
+209,301,3526.29,3/20/2025 7:04,Clothing,PayPal,Chicago
+210,28,2404.43,5/11/2025 16:03,Clothing,Credit Card,Chicago
+211,759,189.93,5/31/2025 8:56,Clothing,Debit Card,Chicago
+212,895,1061.22,1/10/2025 16:12,Beauty,Credit Card,Miami
+213,409,3379.98,4/18/2025 11:31,Home,Credit Card,Miami
+214,27,2887.52,5/15/2025 8:47,Clothing,Debit Card,Chicago
+215,733,1072.74,1/11/2025 9:19,Home,Debit Card,New York
+216,163,678.05,3/9/2025 14:35,Home,Cash,Online
+217,627,1725.83,4/11/2025 23:49,Home,Debit Card,Miami
+218,742,,1/18/2025 5:43,Electronics,Debit Card,Los Angeles
+219,370,2163.21,4/2/2025 5:22,Electronics,Debit Card,Online
+220,496,3061.88,2/1/2025 11:15,Electronics,PayPal,Online
+221,669,398.96,6/8/2025 13:12,Electronics,Cash,Chicago
+222,603,1617.81,6/9/2025 12:46,Electronics,Cash,Online
+223,92,1713.16,5/7/2025 8:47,Home,Credit Card,Chicago
+224,33,3477.45,5/29/2025 9:29,Home,Credit Card,New York
+225,422,4873.25,5/9/2025 10:29,Electronics,Debit Card,New York
+226,881,1938.78,5/19/2025 5:00,Clothing,Credit Card,Chicago
+227,402,2191.05,1/28/2025 1:30,Electronics,Credit Card,Chicago
+228,208,2875.15,1/15/2025 2:40,Home,Debit Card,Los Angeles
+229,894,1857.67,1/27/2025 1:00,Clothing,Cash,Miami
+230,566,2429.47,3/31/2025 13:45,Electronics,Cash,Online
+231,738,4904.77,3/2/2025 1:32,Sports,Cash,Los Angeles
+232,670,375.28,2/22/2025 22:20,Home,PayPal,Los Angeles
+233,118,4304.25,4/15/2025 7:45,Beauty,Debit Card,Online
+234,340,3132.55,1/8/2025 0:10,Home,PayPal,Chicago
+235,297,1616.8,1/31/2025 6:25,Beauty,PayPal,Chicago
+236,440,3682.17,5/21/2025 0:11,Clothing,PayPal,New York
+237,285,725.18,5/26/2025 17:23,Home,Credit Card,Chicago
+238,634,532.22,2/24/2025 3:38,Electronics,Cash,New York
+239,729,3283.74,1/18/2025 19:46,Clothing,Cash,Los Angeles
+240,905,1141.21,1/7/2025 4:04,Beauty,Debit Card,New York
+241,66,2589.77,4/1/2025 20:06,Clothing,Credit Card,Chicago
+242,596,2177.23,4/11/2025 15:18,Home,Credit Card,Los Angeles
+243,644,4522.92,3/11/2025 22:56,Sports,PayPal,Online
+244,867,4881.05,1/20/2025 14:52,Electronics,Cash,Online
+245,920,2169.89,2/26/2025 18:03,Beauty,Cash,Miami
+246,409,4655.97,3/9/2025 19:29,Clothing,Cash,Online
+247,735,419.09,4/26/2025 17:30,Home,Credit Card,Miami
+248,394,742.62,3/27/2025 5:26,Electronics,Credit Card,Chicago
+249,276,3551.77,5/24/2025 14:08,Electronics,Cash,Miami
+250,474,4304.02,6/15/2025 22:46,Electronics,PayPal,Chicago
+251,558,1057.89,4/30/2025 1:58,Sports,Credit Card,New York
+252,885,3957.34,1/31/2025 14:36,Beauty,Debit Card,Miami
+253,473,3009.18,2/27/2025 5:23,Home,Credit Card,Los Angeles
+254,757,2521.16,3/22/2025 13:42,Home,Cash,Chicago
+255,877,3974.51,4/28/2025 18:58,Sports,Debit Card,Los Angeles
+256,566,1966.37,4/1/2025 1:01,Sports,PayPal,New York
+257,457,2257.2,5/8/2025 23:30,Home,Credit Card,New York
+258,600,4677.29,3/25/2025 11:47,Home,Credit Card,Chicago
+259,340,4058.1,5/21/2025 14:35,Electronics,Cash,Los Angeles
+260,205,3657.37,6/9/2025 6:10,Home,Credit Card,Los Angeles
+261,883,1459.36,3/2/2025 6:12,Sports,Credit Card,Chicago
+262,300,1984.05,5/30/2025 23:12,Electronics,PayPal,Los Angeles
+263,66,12.09,4/30/2025 23:15,Electronics,Cash,Miami
+264,697,3721.42,6/16/2025 22:40,Home,PayPal,Online
+265,41,2521.36,5/20/2025 5:36,Electronics,Cash,Miami
+266,267,1382.88,3/2/2025 3:58,Clothing,Credit Card,Los Angeles
+267,688,3936.82,3/17/2025 12:24,Electronics,Cash,Los Angeles
+268,544,2440.94,2/3/2025 8:06,Home,Credit Card,New York
+269,246,1516.26,2/22/2025 17:10,Sports,Credit Card,Online
+270,815,3342.14,5/7/2025 18:19,Sports,Debit Card,Online
+271,418,1220.98,4/28/2025 17:46,Clothing,PayPal,Los Angeles
+272,234,,1/16/2025 19:10,Clothing,PayPal,Chicago
+273,648,2716.77,4/16/2025 8:39,Electronics,Debit Card,New York
+274,905,,1/28/2025 6:11,Beauty,PayPal,Chicago
+275,681,832.4,2/20/2025 11:19,Electronics,Debit Card,Online
+276,240,1001.23,3/3/2025 20:31,Beauty,Debit Card,New York
+277,277,3965.03,2/11/2025 11:11,Home,Cash,Los Angeles
+278,142,1365.73,5/2/2025 21:40,Beauty,Credit Card,Miami
+279,219,2937.66,6/9/2025 9:17,Sports,PayPal,New York
+280,88,3938.93,2/15/2025 7:07,Home,Credit Card,Miami
+281,733,4410.09,2/25/2025 0:56,Clothing,PayPal,Chicago
+282,397,4770.81,2/16/2025 9:03,Electronics,Credit Card,Miami
+283,420,1030.65,6/8/2025 18:22,Sports,Debit Card,New York
+284,689,4487.05,3/24/2025 14:55,Home,PayPal,Online
+285,465,731.79,3/15/2025 9:11,Home,Credit Card,Chicago
+286,69,336.8,4/24/2025 10:00,Beauty,Cash,Los Angeles
+287,572,3008.61,4/6/2025 2:53,Home,Cash,Online
+288,440,931.27,4/10/2025 7:23,Sports,Credit Card,New York
+289,421,745.21,4/12/2025 12:29,Electronics,Credit Card,Miami
+290,736,2604.43,2/15/2025 13:07,Clothing,PayPal,Los Angeles
+291,20,3402.3,3/24/2025 2:17,Electronics,PayPal,Miami
+292,950,2618.93,1/16/2025 6:23,Electronics,Credit Card,Miami
+293,393,,1/11/2025 14:05,Clothing,Cash,Chicago
+294,314,1405.61,5/21/2025 6:36,Beauty,Cash,Los Angeles
+295,818,2457.39,1/17/2025 16:24,Beauty,Credit Card,Los Angeles
+296,496,191.35,6/1/2025 14:55,Beauty,Cash,Chicago
+297,878,3479.54,4/22/2025 21:30,Clothing,PayPal,Chicago
+298,82,2393.97,4/21/2025 1:10,Sports,Debit Card,Miami
+299,381,,2/11/2025 2:37,Sports,Credit Card,Chicago
+300,9,918.34,5/7/2025 20:01,Electronics,PayPal,Miami
+301,13,,3/18/2025 4:40,Beauty,Debit Card,Chicago
+302,215,3418.9,6/15/2025 0:41,Sports,Credit Card,Los Angeles
+303,347,2557.31,4/4/2025 12:54,Beauty,PayPal,Chicago
+304,998,73.71,1/27/2025 5:33,Home,Debit Card,Chicago
+305,103,4259.69,1/25/2025 23:27,Sports,PayPal,Miami
+306,317,279.77,6/17/2025 4:36,Home,Debit Card,Chicago
+307,317,4165.6,4/20/2025 2:07,Beauty,Cash,Chicago
+308,390,1060.95,3/3/2025 11:35,Electronics,Debit Card,Miami
+309,505,2880.67,4/29/2025 0:55,Electronics,Credit Card,Online
+310,909,2000.38,4/18/2025 12:22,Home,PayPal,Los Angeles
+311,824,1478.58,1/3/2025 1:21,Home,Cash,Miami
+312,466,112.24,5/25/2025 15:50,Clothing,Credit Card,New York
+313,628,4443.75,5/10/2025 23:44,Sports,PayPal,New York
+314,410,4927.53,4/13/2025 22:58,Beauty,PayPal,New York
+315,41,4539.88,4/19/2025 2:29,Clothing,Debit Card,Miami
+316,137,4413.2,3/12/2025 5:23,Home,PayPal,Chicago
+317,414,2761.36,1/3/2025 3:13,Home,Cash,Los Angeles
+318,677,1425.56,1/10/2025 11:59,Home,Credit Card,Miami
+319,88,1055.23,4/24/2025 3:44,Clothing,Debit Card,Chicago
+320,397,1883.01,4/29/2025 14:52,Home,Debit Card,New York
+321,291,3891.85,4/3/2025 18:01,Clothing,PayPal,Online
+322,367,2304.8,5/29/2025 7:11,Beauty,PayPal,Chicago
+323,467,4684.65,4/30/2025 13:40,Home,Debit Card,New York
+324,788,2783.01,4/12/2025 5:54,Electronics,Debit Card,Chicago
+325,439,2407.88,6/9/2025 6:34,Beauty,Debit Card,Los Angeles
+326,693,2211.37,3/24/2025 2:00,Home,Debit Card,Chicago
+327,796,,1/6/2025 15:05,Electronics,PayPal,Los Angeles
+328,269,1087.3,4/11/2025 22:35,Home,Debit Card,Online
+329,944,2299.69,2/10/2025 20:18,Clothing,Debit Card,Miami
+330,866,1983.68,2/5/2025 23:54,Beauty,PayPal,New York
+331,984,1208.76,4/3/2025 11:46,Beauty,Credit Card,New York
+332,296,206.5,1/4/2025 19:57,Home,Cash,Online
+333,614,2124.25,2/12/2025 13:36,Sports,PayPal,Miami
+334,532,2370.22,3/26/2025 12:32,Electronics,Debit Card,Los Angeles
+335,783,1308.36,5/10/2025 20:36,Beauty,Cash,Los Angeles
+336,237,2323.98,4/4/2025 21:50,Beauty,PayPal,Online
+337,400,276.43,4/30/2025 4:52,Home,Debit Card,New York
+338,174,1768.12,1/24/2025 21:24,Beauty,Cash,New York
+339,161,3348.88,5/15/2025 1:36,Home,Cash,Chicago
+340,307,1008.48,5/13/2025 17:02,Home,Credit Card,Los Angeles
+341,724,4546.42,6/8/2025 19:05,Beauty,PayPal,Online
+342,988,1055.22,5/7/2025 5:06,Clothing,PayPal,Miami
+343,989,3791.7,5/28/2025 0:09,Clothing,PayPal,Chicago
+344,148,105.77,4/24/2025 4:37,Clothing,Credit Card,Los Angeles
+345,426,1292.85,4/23/2025 16:28,Electronics,PayPal,Miami
+346,117,1524.04,1/4/2025 21:56,Sports,Cash,Online
+347,120,3656.06,3/14/2025 4:00,Sports,Debit Card,Chicago
+348,135,1523.16,3/1/2025 23:36,Home,PayPal,Los Angeles
+349,122,608.7,6/8/2025 14:52,Home,PayPal,Online
+350,336,2897.65,2/19/2025 5:42,Home,PayPal,Chicago
+351,90,,4/21/2025 1:00,Clothing,Credit Card,Los Angeles
+352,992,3691.14,2/12/2025 8:40,Sports,Debit Card,New York
+353,121,,3/13/2025 17:36,Home,PayPal,New York
+354,916,2087.36,5/31/2025 7:24,Home,Cash,Miami
+355,44,2607.5,5/27/2025 4:37,Clothing,Credit Card,Chicago
+356,822,3504.99,6/12/2025 14:33,Sports,Credit Card,Miami
+357,753,807.06,1/15/2025 7:48,Clothing,Debit Card,Miami
+358,147,,2/5/2025 10:02,Beauty,Cash,Los Angeles
+359,411,2194.22,2/15/2025 20:19,Electronics,Cash,Miami
+360,375,3910.71,6/15/2025 7:31,Clothing,Cash,Los Angeles
+361,215,1785.49,2/20/2025 3:44,Home,Cash,New York
+362,511,4310.65,3/25/2025 17:45,Clothing,Credit Card,New York
+363,524,3384.85,2/12/2025 5:35,Home,PayPal,Online
+364,980,,1/30/2025 11:32,Home,Cash,New York
+365,885,3662.34,3/14/2025 13:23,Electronics,Cash,Chicago
+366,821,2267.87,1/20/2025 11:55,Electronics,Debit Card,Miami
+367,175,3546.1,5/7/2025 10:43,Beauty,Debit Card,Online
+368,226,2300.1,5/8/2025 20:50,Home,Debit Card,Miami
+369,345,4127.88,1/22/2025 15:51,Electronics,PayPal,Online
+370,415,3583.85,3/28/2025 6:06,Beauty,Cash,Chicago
+371,213,910.56,3/24/2025 21:08,Sports,PayPal,Chicago
+372,214,1835.58,1/6/2025 6:03,Home,Cash,New York
+373,486,4866.21,2/10/2025 8:37,Home,Debit Card,Los Angeles
+374,17,2445.23,2/18/2025 22:07,Home,Credit Card,Chicago
+375,790,2546.82,5/7/2025 2:37,Home,Debit Card,New York
+376,354,202.36,2/20/2025 19:13,Clothing,Debit Card,Los Angeles
+377,866,3010.19,5/31/2025 8:35,Electronics,Debit Card,Los Angeles
+378,868,285.99,4/24/2025 16:55,Sports,Debit Card,Miami
+379,550,3174.61,1/31/2025 18:53,Electronics,PayPal,Miami
+380,800,2010.5,4/20/2025 7:44,Clothing,Debit Card,Miami
+381,148,2443.12,2/23/2025 5:00,Electronics,PayPal,Miami
+382,758,3070.09,6/11/2025 19:54,Clothing,Credit Card,Miami
+383,262,381.86,1/22/2025 21:16,Sports,Credit Card,New York
+384,445,4974.03,3/20/2025 13:26,Home,PayPal,Online
+385,609,4141.97,4/15/2025 18:11,Home,Credit Card,Miami
+386,169,1052.66,5/2/2025 16:08,Clothing,Cash,Online
+387,806,3824.79,6/8/2025 14:57,Sports,Cash,New York
+388,849,3642.55,1/2/2025 23:14,Electronics,Debit Card,New York
+389,469,2525.02,2/27/2025 20:08,Beauty,Credit Card,Miami
+390,257,4078.63,2/12/2025 23:27,Home,Debit Card,Miami
+391,568,2906.7,4/6/2025 8:55,Electronics,PayPal,New York
+392,432,4192.08,5/19/2025 12:09,Clothing,Credit Card,Los Angeles
+393,701,227.38,2/7/2025 2:04,Electronics,PayPal,Miami
+394,183,1476.9,1/11/2025 18:56,Home,Cash,Online
+395,393,3344.85,3/27/2025 17:39,Home,Cash,Chicago
+396,225,3340.79,5/12/2025 23:17,Clothing,PayPal,Online
+397,834,,2/22/2025 3:01,Electronics,Cash,New York
+398,705,4429.17,2/19/2025 13:06,Clothing,Cash,New York
+399,102,4151.84,5/21/2025 7:52,Beauty,Credit Card,New York
+400,908,2477.6,4/3/2025 2:00,Sports,Credit Card,Los Angeles
+401,314,4978.25,3/9/2025 7:43,Electronics,PayPal,Los Angeles
+402,191,4652.75,2/12/2025 3:07,Sports,Credit Card,Los Angeles
+403,481,1276.51,5/18/2025 8:41,Electronics,Cash,Miami
+404,84,2763.52,1/16/2025 9:07,Electronics,PayPal,Online
+405,692,3486.07,4/3/2025 11:23,Clothing,PayPal,Miami
+406,212,4022.7,6/10/2025 20:02,Electronics,PayPal,Online
+407,899,386.18,1/20/2025 15:07,Sports,PayPal,Online
+408,358,1618.15,4/18/2025 14:07,Electronics,PayPal,New York
+409,985,1227.8,1/20/2025 3:53,Home,Credit Card,New York
+410,594,417.56,4/9/2025 14:10,Beauty,Cash,New York
+411,432,846.02,3/12/2025 20:16,Clothing,Cash,New York
+412,463,3639.71,5/15/2025 22:57,Beauty,Cash,Miami
+413,743,,6/16/2025 3:35,Sports,Credit Card,New York
+414,264,4374.65,2/18/2025 12:11,Electronics,Cash,Los Angeles
+415,762,2099.51,5/28/2025 23:08,Clothing,PayPal,Online
+416,542,2049.09,4/15/2025 11:25,Home,PayPal,Online
+417,488,2354,1/7/2025 11:41,Sports,PayPal,Los Angeles
+418,150,2459.28,3/15/2025 5:30,Electronics,PayPal,Los Angeles
+419,977,2731.75,4/10/2025 1:12,Sports,PayPal,Chicago
+420,458,3139.12,6/16/2025 11:49,Sports,Credit Card,New York
+421,742,353.9,5/13/2025 5:01,Beauty,Credit Card,Miami
+422,799,1484.84,5/4/2025 13:17,Home,Cash,Chicago
+423,586,1753.52,3/18/2025 1:56,Beauty,Cash,Miami
+424,498,433.18,1/4/2025 1:47,Sports,Cash,New York
+425,645,4282.09,2/8/2025 18:01,Home,Credit Card,Miami
+426,305,16.65,6/4/2025 10:52,Beauty,Debit Card,Miami
+427,4,1787.09,4/28/2025 4:34,Beauty,PayPal,Chicago
+428,814,4523.09,4/11/2025 23:48,Electronics,Debit Card,Chicago
+429,383,1377.09,5/14/2025 13:53,Sports,PayPal,Chicago
+430,945,2745.19,4/18/2025 6:51,Beauty,Credit Card,Chicago
+431,427,4397.73,5/16/2025 23:54,Home,Debit Card,Miami
+432,744,3289.1,4/24/2025 12:33,Home,Credit Card,Los Angeles
+433,389,3871.63,2/7/2025 6:06,Clothing,Cash,Los Angeles
+434,501,2621.8,3/10/2025 1:20,Electronics,Debit Card,Online
+435,619,3789.7,5/8/2025 1:49,Beauty,Credit Card,Los Angeles
+436,856,4646.12,1/20/2025 19:18,Clothing,Debit Card,Los Angeles
+437,425,2158.6,4/15/2025 6:12,Electronics,Debit Card,Online
+438,789,719.64,1/12/2025 16:07,Sports,Credit Card,Chicago
+439,407,3691.93,1/2/2025 4:53,Electronics,PayPal,New York
+440,590,389.88,4/20/2025 2:45,Home,Cash,Los Angeles
+441,623,1815.83,3/19/2025 3:24,Electronics,Debit Card,Miami
+442,23,1908.49,4/21/2025 1:10,Beauty,Debit Card,Online
+443,651,559.64,4/30/2025 20:02,Electronics,Cash,Online
+444,312,482.48,3/2/2025 1:12,Clothing,PayPal,Miami
+445,336,1555.81,4/13/2025 3:00,Home,PayPal,Online
+446,731,3488.33,5/9/2025 17:11,Home,Debit Card,Online
+447,656,4017.06,2/3/2025 15:53,Sports,PayPal,Chicago
+448,270,891.01,3/19/2025 15:04,Home,Cash,Online
+449,751,,4/20/2025 15:46,Clothing,Debit Card,Online
+450,147,125.83,3/24/2025 12:45,Home,Cash,Los Angeles
+451,184,1106.44,2/20/2025 15:50,Beauty,Credit Card,Chicago
+452,5,1983.52,2/3/2025 14:59,Sports,PayPal,Online
+453,622,2566.29,2/19/2025 5:27,Sports,PayPal,Chicago
+454,253,4305.83,5/27/2025 14:21,Clothing,Credit Card,Online
+455,46,2156.67,3/27/2025 17:16,Beauty,Credit Card,Los Angeles
+456,34,4270.26,4/21/2025 20:03,Sports,PayPal,Chicago
+457,903,870.01,4/27/2025 5:11,Clothing,Debit Card,Los Angeles
+458,301,2973.48,5/1/2025 20:09,Beauty,Credit Card,Online
+459,518,4348.74,3/25/2025 1:02,Beauty,PayPal,Chicago
+460,389,1488.34,5/19/2025 7:32,Home,Credit Card,Chicago
+461,335,3430.42,3/28/2025 19:23,Beauty,Debit Card,New York
+462,443,563.67,2/8/2025 22:18,Home,Credit Card,Miami
+463,48,1537.01,6/17/2025 3:01,Clothing,Debit Card,New York
+464,672,1115.85,4/6/2025 10:24,Electronics,Cash,Chicago
+465,346,3674.55,5/16/2025 3:32,Clothing,PayPal,Miami
+466,418,1613.21,3/17/2025 10:27,Clothing,Cash,Los Angeles
+467,258,996.81,3/2/2025 1:34,Beauty,Debit Card,New York
+468,202,3683.34,1/12/2025 7:17,Sports,Debit Card,Online
+469,32,4664.71,5/6/2025 10:40,Sports,PayPal,Los Angeles
+470,7,3241.66,5/15/2025 15:17,Electronics,PayPal,Los Angeles
+471,484,593.6,3/30/2025 23:15,Electronics,Credit Card,Miami
+472,746,4261.22,6/11/2025 4:05,Beauty,PayPal,Online
+473,981,3032.91,3/17/2025 1:01,Clothing,Cash,Online
+474,215,1730.82,6/15/2025 11:38,Beauty,Credit Card,New York
+475,636,3628.2,3/8/2025 14:52,Beauty,PayPal,Online
+476,65,2963.79,3/29/2025 21:13,Home,PayPal,New York
+477,711,4736.24,3/9/2025 19:49,Beauty,Cash,Chicago
+478,343,4415.48,3/21/2025 11:01,Beauty,Cash,Chicago
+479,452,4541.67,4/30/2025 9:35,Electronics,Debit Card,Online
+480,520,3120.78,1/7/2025 18:59,Clothing,Cash,Los Angeles
+481,575,2698.86,3/24/2025 5:04,Beauty,Cash,Miami
+482,642,2826.89,4/30/2025 11:18,Beauty,Cash,Chicago
+483,269,1301.18,5/10/2025 16:46,Electronics,PayPal,Miami
+484,393,1334.54,5/25/2025 11:40,Electronics,Debit Card,New York
+485,359,2525.69,3/2/2025 3:29,Beauty,Credit Card,New York
+486,95,2885.89,3/30/2025 16:14,Clothing,Cash,Los Angeles
+487,234,1095.54,6/6/2025 22:01,Clothing,Debit Card,Miami
+488,151,,3/11/2025 11:16,Electronics,Debit Card,Chicago
+489,462,3433.6,3/4/2025 13:25,Beauty,Debit Card,New York
+490,753,505.91,2/3/2025 18:36,Clothing,Credit Card,Online
+491,325,1024.59,3/19/2025 12:00,Beauty,Debit Card,Online
+492,856,419.47,5/12/2025 12:16,Home,Debit Card,Chicago
+493,25,591.95,5/13/2025 6:44,Beauty,Debit Card,Online
+494,507,2939.6,5/30/2025 13:45,Clothing,Cash,Miami
+495,35,2947.59,4/25/2025 16:52,Clothing,Credit Card,New York
+496,258,4220.45,1/21/2025 19:32,Clothing,Credit Card,Chicago
+497,91,3009.06,1/29/2025 11:28,Electronics,PayPal,Los Angeles
+498,708,943.53,1/22/2025 22:16,Clothing,PayPal,Los Angeles
+499,186,,4/1/2025 6:40,Sports,Cash,New York
+500,943,489.75,5/26/2025 8:11,Electronics,Cash,Chicago
+501,793,1511.92,5/2/2025 20:33,Clothing,Credit Card,Chicago
+502,680,2307.3,4/7/2025 5:19,Beauty,Credit Card,New York
+503,810,2727.34,5/31/2025 12:10,Home,Debit Card,New York
+504,15,3194.72,6/1/2025 14:13,Beauty,Debit Card,Online
+505,910,3186.76,3/2/2025 17:45,Sports,Cash,Miami
+506,671,2505.52,4/18/2025 15:57,Clothing,PayPal,Miami
+507,268,478.78,6/6/2025 18:05,Electronics,Cash,Miami
+508,93,2114.68,2/21/2025 20:59,Home,Credit Card,New York
+509,82,1592.9,4/22/2025 20:49,Sports,Debit Card,Chicago
+510,255,1935.5,2/28/2025 18:01,Electronics,Credit Card,Miami
+511,364,3905.2,1/24/2025 11:07,Electronics,PayPal,Los Angeles
+512,691,865.39,2/20/2025 16:01,Sports,Debit Card,Chicago
+513,759,1127.03,3/20/2025 18:15,Sports,PayPal,Los Angeles
+514,708,4129.48,1/27/2025 2:13,Beauty,Debit Card,Online
+515,560,1873.63,4/24/2025 2:11,Electronics,Cash,Online
+516,585,1106.26,1/5/2025 10:14,Home,Debit Card,Miami
+517,62,519.34,4/23/2025 7:40,Home,Cash,Los Angeles
+518,834,4163.64,5/10/2025 15:08,Home,PayPal,Online
+519,886,2129.02,3/3/2025 6:41,Clothing,Debit Card,Online
+520,865,,3/25/2025 23:15,Sports,Cash,New York
+521,849,232.25,2/26/2025 11:55,Electronics,Credit Card,Los Angeles
+522,34,1037.02,4/13/2025 1:06,Electronics,Credit Card,Chicago
+523,128,,5/13/2025 7:41,Sports,Debit Card,Online
+524,622,3498.67,3/26/2025 23:06,Clothing,Credit Card,Miami
+525,401,3075.67,5/16/2025 16:42,Beauty,PayPal,New York
+526,568,4903.02,5/27/2025 18:12,Beauty,PayPal,Chicago
+527,261,2728.64,4/24/2025 8:50,Clothing,Cash,Chicago
+528,870,4122.15,1/4/2025 18:29,Sports,PayPal,Chicago
+529,92,1300.84,5/11/2025 11:53,Beauty,Credit Card,Chicago
+530,370,728,4/19/2025 14:48,Home,Cash,New York
+531,16,322.34,4/5/2025 11:19,Clothing,Debit Card,Los Angeles
+532,995,759.38,3/14/2025 16:56,Home,PayPal,New York
+533,725,2766.82,6/14/2025 19:08,Clothing,Credit Card,Los Angeles
+534,132,442.29,3/6/2025 2:33,Sports,Cash,Los Angeles
+535,900,3204.92,2/11/2025 17:13,Electronics,Credit Card,Miami
+536,216,3279.26,1/2/2025 20:44,Clothing,Cash,Online
+537,774,3126.16,5/9/2025 3:51,Sports,PayPal,Online
+538,806,889.17,3/20/2025 16:31,Beauty,Cash,Miami
+539,488,4427.08,3/24/2025 12:27,Electronics,Debit Card,Chicago
+540,920,2957.81,3/13/2025 4:35,Clothing,PayPal,Miami
+541,202,2542.15,5/23/2025 18:07,Clothing,Debit Card,Online
+542,581,3681.02,4/28/2025 2:59,Beauty,PayPal,Miami
+543,459,3335.68,4/18/2025 22:53,Beauty,Debit Card,Miami
+544,876,1451.65,3/10/2025 4:02,Home,Credit Card,Online
+545,760,4508.24,5/8/2025 18:54,Electronics,Credit Card,Los Angeles
+546,19,1600.94,3/24/2025 15:39,Beauty,Debit Card,Online
+547,164,3634.63,6/13/2025 19:02,Clothing,Debit Card,Los Angeles
+548,10,2954.52,5/21/2025 22:54,Sports,Debit Card,Miami
+549,907,1484.8,3/4/2025 17:05,Clothing,Cash,Los Angeles
+550,939,2422.13,5/26/2025 3:43,Beauty,Credit Card,Chicago
+551,385,1711.89,6/4/2025 10:02,Home,Cash,Los Angeles
+552,770,502.06,5/18/2025 14:24,Electronics,Cash,Miami
+553,879,4872.19,3/17/2025 0:38,Home,PayPal,Los Angeles
+554,858,4085.26,1/19/2025 11:06,Electronics,Cash,Miami
+555,716,1316.16,5/7/2025 1:39,Sports,Cash,Miami
+556,830,4049.01,6/1/2025 14:13,Clothing,PayPal,Miami
+557,970,2871.83,2/23/2025 21:59,Clothing,Credit Card,Los Angeles
+558,426,1041.41,3/19/2025 11:01,Home,Credit Card,Los Angeles
+559,786,3638.43,1/11/2025 17:54,Clothing,Cash,Online
+560,12,,2/8/2025 2:57,Beauty,Debit Card,Miami
+561,64,1337.28,3/18/2025 18:51,Beauty,Credit Card,Online
+562,884,1594.54,5/19/2025 18:50,Clothing,Cash,New York
+563,303,2682.71,3/24/2025 17:55,Clothing,Credit Card,Online
+564,534,3123.01,2/26/2025 2:59,Sports,Credit Card,Miami
+565,126,29.4,2/20/2025 13:22,Beauty,Debit Card,Online
+566,563,2527.89,1/7/2025 10:04,Beauty,Debit Card,Online
+567,452,4124.38,2/28/2025 1:25,Sports,PayPal,New York
+568,163,1033.56,6/3/2025 10:57,Clothing,Cash,Online
+569,112,1382.18,1/1/2025 15:07,Beauty,Credit Card,Online
+570,18,2929.47,3/18/2025 13:34,Beauty,Credit Card,Miami
+571,576,4347.46,5/18/2025 0:46,Electronics,Credit Card,Miami
+572,852,4995.63,3/17/2025 11:37,Sports,Credit Card,Chicago
+573,514,1679.76,6/14/2025 6:06,Sports,PayPal,Online
+574,354,3244.66,2/26/2025 22:43,Home,PayPal,Chicago
+575,83,1024.05,5/18/2025 4:14,Clothing,PayPal,New York
+576,347,3003.16,4/17/2025 2:25,Home,PayPal,Chicago
+577,477,3909.54,5/7/2025 18:14,Sports,Debit Card,Miami
+578,866,3707.71,5/16/2025 18:30,Clothing,Credit Card,Online
+579,673,1446.25,3/25/2025 20:23,Clothing,Cash,Online
+580,878,2987.07,6/6/2025 1:53,Beauty,Debit Card,Chicago
+581,126,2970.34,5/18/2025 6:06,Home,Credit Card,Chicago
+582,552,453.63,4/19/2025 12:47,Beauty,Cash,New York
+583,541,1843.44,3/9/2025 9:07,Sports,Debit Card,Los Angeles
+584,147,3063.81,5/31/2025 4:39,Electronics,Debit Card,Los Angeles
+585,331,2475.6,3/8/2025 23:52,Home,PayPal,Chicago
+586,985,962.84,3/26/2025 2:22,Clothing,Credit Card,Chicago
+587,986,3519.14,4/9/2025 11:51,Clothing,Credit Card,Los Angeles
+588,192,4069.52,2/10/2025 3:39,Clothing,Debit Card,Chicago
+589,403,1669.56,1/27/2025 9:08,Electronics,Credit Card,Miami
+590,587,2353.34,3/29/2025 22:08,Clothing,Cash,New York
+591,858,765.27,2/11/2025 3:37,Clothing,Credit Card,Miami
+592,774,302.48,4/5/2025 14:04,Beauty,Credit Card,Chicago
+593,35,73.2,6/10/2025 3:55,Home,Debit Card,New York
+594,882,3247.85,4/19/2025 23:44,Electronics,Cash,New York
+595,756,4093.96,1/7/2025 13:35,Home,Debit Card,New York
+596,710,70.39,2/20/2025 4:44,Sports,Cash,Los Angeles
+597,339,4684.87,4/1/2025 0:19,Electronics,Cash,New York
+598,769,3890.83,4/30/2025 15:28,Home,Credit Card,Miami
+599,106,2605.77,1/1/2025 5:37,Sports,Debit Card,New York
+600,310,303.19,1/12/2025 6:52,Clothing,Credit Card,Chicago
+601,953,4053.1,5/20/2025 2:44,Electronics,Cash,Online
+602,412,4867.64,4/28/2025 8:46,Home,Cash,Miami
+603,403,1085.48,2/4/2025 15:15,Clothing,Credit Card,New York
+604,73,210.52,2/16/2025 19:56,Sports,Cash,Chicago
+605,659,4859.14,6/12/2025 2:53,Home,Credit Card,Miami
+606,199,2778.46,6/14/2025 7:21,Electronics,Credit Card,Chicago
+607,816,,1/9/2025 11:16,Sports,Cash,Chicago
+608,559,2093.69,2/16/2025 6:13,Clothing,Credit Card,New York
+609,616,2041.02,3/31/2025 21:19,Home,Debit Card,New York
+610,263,3435.23,4/7/2025 1:19,Home,Cash,New York
+611,135,951.7,1/19/2025 21:06,Clothing,Debit Card,Online
+612,905,,3/1/2025 23:16,Clothing,PayPal,Miami
+613,781,4863.58,1/19/2025 10:53,Beauty,Credit Card,Online
+614,128,3002.86,3/20/2025 14:18,Beauty,Cash,New York
+615,456,3742.1,3/4/2025 2:42,Electronics,PayPal,Miami
+616,864,1085.68,2/4/2025 6:07,Sports,Cash,Online
+617,995,821.18,1/23/2025 7:39,Electronics,Debit Card,Miami
+618,357,1643.13,3/4/2025 4:22,Beauty,Credit Card,Chicago
+619,786,3866.7,3/19/2025 12:02,Sports,PayPal,Online
+620,232,315.64,2/22/2025 17:41,Beauty,PayPal,Chicago
+621,638,4000.22,4/11/2025 0:03,Clothing,Debit Card,Online
+622,179,674.93,5/18/2025 5:44,Home,PayPal,Los Angeles
+623,206,3590.37,2/6/2025 1:21,Home,PayPal,Chicago
+624,429,1064.15,3/8/2025 2:43,Home,Credit Card,Chicago
+625,839,4145.2,4/5/2025 5:22,Electronics,Cash,Miami
+626,729,4460.94,2/24/2025 2:05,Clothing,PayPal,New York
+627,773,2121.87,1/2/2025 7:29,Home,Credit Card,Online
+628,446,1550.58,2/12/2025 3:18,Clothing,Debit Card,New York
+629,751,3658.64,5/29/2025 5:05,Clothing,PayPal,Los Angeles
+630,563,753.01,4/11/2025 12:37,Sports,Cash,New York
+631,269,4477.96,1/7/2025 3:26,Electronics,Debit Card,Los Angeles
+632,948,696.93,1/14/2025 20:28,Beauty,PayPal,Online
+633,181,1969.55,3/31/2025 15:16,Sports,PayPal,Online
+634,381,1847,3/16/2025 21:40,Clothing,Debit Card,Chicago
+635,16,492.19,1/23/2025 18:39,Clothing,Cash,Miami
+636,863,3908.89,4/12/2025 3:40,Electronics,Debit Card,Chicago
+637,370,3956.12,5/30/2025 17:14,Beauty,Cash,Chicago
+638,331,,4/24/2025 1:40,Home,Credit Card,New York
+639,155,1328.84,3/11/2025 22:19,Home,Credit Card,Online
+640,172,1461.36,5/20/2025 17:15,Home,Credit Card,Miami
+641,406,118.9,1/10/2025 4:32,Clothing,PayPal,Los Angeles
+642,262,4324.39,2/1/2025 23:47,Clothing,Cash,Online
+643,349,2759.95,2/2/2025 0:47,Sports,Cash,New York
+644,283,3277.25,4/11/2025 0:41,Home,Cash,Chicago
+645,201,,2/17/2025 4:45,Home,PayPal,Online
+646,613,,4/27/2025 9:50,Clothing,Credit Card,Chicago
+647,158,,2/22/2025 21:29,Home,Debit Card,Online
+648,301,2967.35,2/17/2025 1:18,Beauty,Credit Card,Chicago
+649,249,,4/18/2025 10:11,Clothing,PayPal,Chicago
+650,928,3717.71,2/24/2025 5:04,Sports,Debit Card,Miami
+651,129,23.65,4/11/2025 20:01,Clothing,Credit Card,New York
+652,753,1624.31,3/24/2025 22:31,Electronics,PayPal,Los Angeles
+653,820,176.24,4/17/2025 17:54,Sports,PayPal,Los Angeles
+654,466,30.83,4/26/2025 7:26,Sports,PayPal,Online
+655,824,477.78,3/14/2025 16:30,Home,Debit Card,New York
+656,85,4811.74,5/29/2025 18:52,Electronics,Debit Card,Chicago
+657,848,2906.18,3/1/2025 19:30,Clothing,Debit Card,Los Angeles
+658,930,4725.54,1/7/2025 15:41,Beauty,Credit Card,Miami
+659,983,4927.28,5/19/2025 0:59,Sports,PayPal,Los Angeles
+660,141,308.07,6/5/2025 1:31,Clothing,Debit Card,Online
+661,509,165.73,3/12/2025 23:40,Beauty,Debit Card,Chicago
+662,713,4384.6,1/21/2025 8:51,Electronics,PayPal,Los Angeles
+663,430,2145.28,1/12/2025 18:37,Electronics,PayPal,New York
+664,914,2994.89,1/4/2025 4:26,Home,PayPal,Miami
+665,894,3362.87,4/3/2025 19:26,Sports,Cash,Chicago
+666,211,2927.3,2/23/2025 4:59,Clothing,Cash,Chicago
+667,510,903.84,5/17/2025 16:05,Home,Credit Card,New York
+668,134,268.31,5/21/2025 23:46,Home,Cash,Online
+669,178,3787.45,4/25/2025 10:31,Electronics,Debit Card,Online
+670,316,4799.26,3/2/2025 21:03,Beauty,Credit Card,Miami
+671,341,916.02,5/14/2025 15:03,Electronics,Cash,Los Angeles
+672,556,4535.65,4/6/2025 8:03,Clothing,Credit Card,Miami
+673,905,3366.52,4/29/2025 2:13,Sports,Credit Card,Online
+674,131,1468.74,5/12/2025 3:59,Clothing,Cash,Chicago
+675,675,1088.11,4/30/2025 13:25,Home,Cash,Los Angeles
+676,504,1039.99,4/13/2025 12:18,Electronics,PayPal,Online
+677,839,3406.17,3/30/2025 7:15,Sports,Debit Card,New York
+678,486,2972.65,1/3/2025 2:10,Sports,PayPal,Chicago
+679,806,4988.06,3/27/2025 22:51,Home,Debit Card,Online
+680,191,2029.14,2/11/2025 12:28,Beauty,Credit Card,Los Angeles
+681,17,4752.12,5/31/2025 10:50,Sports,Cash,Miami
+682,919,3375.78,6/15/2025 14:52,Electronics,Credit Card,New York
+683,45,4402.65,4/3/2025 7:27,Clothing,Debit Card,New York
+684,451,4278.58,3/24/2025 8:32,Home,Debit Card,Chicago
+685,195,4799.04,1/24/2025 11:23,Electronics,Debit Card,Online
+686,924,4929.15,1/2/2025 14:27,Beauty,Credit Card,New York
+687,770,442.46,3/3/2025 23:36,Clothing,Debit Card,Miami
+688,168,1578.94,4/29/2025 9:08,Electronics,Credit Card,Los Angeles
+689,986,1219.88,4/18/2025 10:31,Electronics,Debit Card,Miami
+690,925,1727.49,5/27/2025 0:30,Clothing,PayPal,Los Angeles
+691,579,4035.73,1/10/2025 18:58,Sports,Credit Card,New York
+692,338,4166.24,3/7/2025 18:07,Electronics,Debit Card,Miami
+693,714,3751.06,6/15/2025 7:01,Clothing,PayPal,New York
+694,605,3791.69,3/7/2025 14:16,Electronics,Debit Card,New York
+695,154,2468.45,1/21/2025 0:56,Clothing,Credit Card,Los Angeles
+696,322,3772.78,4/27/2025 5:27,Sports,Credit Card,Los Angeles
+697,982,4707.6,5/9/2025 9:00,Sports,Debit Card,Los Angeles
+698,329,3596.56,4/17/2025 19:14,Home,Credit Card,New York
+699,515,4306.89,3/31/2025 8:01,Beauty,PayPal,Online
+700,259,3566.26,1/11/2025 3:31,Clothing,Cash,Miami
+701,379,1854.24,2/11/2025 16:00,Sports,Debit Card,Miami
+702,304,3887.25,5/29/2025 15:28,Sports,Cash,Chicago
+703,741,2477.55,1/25/2025 10:25,Home,Debit Card,New York
+704,866,4998.17,1/21/2025 19:15,Sports,PayPal,New York
+705,676,241.13,4/5/2025 18:52,Sports,Cash,Chicago
+706,421,2761.59,3/1/2025 9:21,Beauty,Cash,Chicago
+707,613,2047.22,4/28/2025 9:48,Beauty,PayPal,Chicago
+708,861,,5/27/2025 12:22,Clothing,PayPal,New York
+709,36,990.05,4/15/2025 6:24,Clothing,Credit Card,New York
+710,787,4686.67,1/6/2025 22:43,Beauty,PayPal,Online
+711,429,2486.3,3/29/2025 4:01,Beauty,Credit Card,Online
+712,106,1122.41,4/20/2025 15:12,Clothing,Cash,Chicago
+713,704,2205.29,3/20/2025 19:18,Beauty,Debit Card,Miami
+714,137,3087.44,2/20/2025 5:49,Beauty,Cash,Los Angeles
+715,347,1814.28,6/1/2025 18:05,Home,Cash,Chicago
+716,504,3225.42,5/23/2025 16:49,Clothing,Cash,Miami
+717,24,4292.9,3/18/2025 8:24,Home,Cash,Los Angeles
+718,244,3496.4,2/18/2025 3:03,Home,Cash,Chicago
+719,663,3130.7,4/8/2025 9:13,Beauty,Credit Card,Chicago
+720,488,2432.17,1/21/2025 20:14,Beauty,Cash,Online
+721,22,640.83,5/4/2025 3:33,Sports,Cash,Los Angeles
+722,516,2695.54,6/3/2025 19:39,Beauty,Debit Card,Online
+723,903,2478.66,4/7/2025 13:37,Beauty,Debit Card,Chicago
+724,940,1264.66,2/8/2025 19:36,Electronics,PayPal,New York
+725,986,2445.65,3/9/2025 6:13,Clothing,Credit Card,Miami
+726,909,4641.79,3/5/2025 12:12,Beauty,Cash,Los Angeles
+727,616,2976.51,5/18/2025 5:32,Beauty,PayPal,Miami
+728,541,450.6,1/16/2025 23:52,Sports,PayPal,Miami
+729,476,4948.7,4/1/2025 11:53,Beauty,PayPal,Los Angeles
+730,723,3842.83,1/15/2025 9:59,Electronics,Cash,New York
+731,628,4542.16,1/17/2025 11:34,Home,Credit Card,Online
+732,582,2259.09,3/29/2025 11:19,Home,Credit Card,Chicago
+733,497,4879.74,1/16/2025 6:37,Electronics,Cash,Online
+734,988,1130.57,5/18/2025 6:15,Clothing,Credit Card,Online
+735,422,3497.63,1/5/2025 21:15,Clothing,PayPal,Chicago
+736,685,1158.37,4/8/2025 21:16,Clothing,Cash,Los Angeles
+737,684,2723.63,1/12/2025 17:32,Clothing,Credit Card,Chicago
+738,756,4466.78,4/1/2025 20:33,Sports,Debit Card,Online
+739,918,2252.86,6/8/2025 16:10,Clothing,Debit Card,Chicago
+740,669,610.4,1/7/2025 3:27,Electronics,Cash,Miami
+741,921,2018.07,6/6/2025 14:11,Sports,Cash,Miami
+742,334,1288.9,1/21/2025 6:19,Home,Cash,Los Angeles
+743,160,,5/28/2025 19:55,Sports,Debit Card,Los Angeles
+744,391,983.05,4/16/2025 21:04,Sports,PayPal,New York
+745,427,3196.15,2/24/2025 5:43,Clothing,Credit Card,New York
+746,140,2495.65,3/19/2025 5:49,Clothing,Cash,Los Angeles
+747,550,3553.6,4/1/2025 8:19,Home,Credit Card,New York
+748,256,3735.84,2/26/2025 19:12,Clothing,Credit Card,Chicago
+749,338,3852.72,4/21/2025 10:12,Clothing,Cash,Chicago
+750,789,3356.68,5/12/2025 2:38,Electronics,Debit Card,Chicago
+751,197,803.93,1/3/2025 23:19,Beauty,PayPal,Miami
+752,626,,1/20/2025 7:30,Sports,Credit Card,New York
+753,27,3558.59,4/25/2025 8:18,Electronics,PayPal,Miami
+754,638,3857.12,3/17/2025 16:56,Home,Cash,Los Angeles
+755,519,2480.56,1/16/2025 17:21,Sports,Debit Card,New York
+756,386,156.92,5/8/2025 20:09,Home,Debit Card,Los Angeles
+757,125,2101.8,4/13/2025 6:26,Beauty,PayPal,Chicago
+758,855,253.54,5/21/2025 5:27,Clothing,Debit Card,Miami
+759,508,2922.08,4/16/2025 21:31,Home,Debit Card,Chicago
+760,917,2129.31,3/16/2025 11:52,Home,PayPal,Los Angeles
+761,563,961.29,3/1/2025 19:37,Beauty,Credit Card,New York
+762,911,4528.12,3/22/2025 17:09,Electronics,Debit Card,Chicago
+763,310,4157.31,1/11/2025 20:01,Clothing,Debit Card,Chicago
+764,760,1626.65,5/10/2025 2:35,Home,Debit Card,Los Angeles
+765,729,,1/1/2025 8:43,Beauty,Credit Card,New York
+766,642,2701.87,5/12/2025 0:11,Home,PayPal,New York
+767,543,,1/27/2025 17:32,Home,PayPal,Miami
+768,277,3465.21,1/19/2025 20:23,Clothing,Cash,Online
+769,687,2975.3,5/5/2025 1:55,Beauty,Cash,Miami
+770,199,3038.46,5/1/2025 0:19,Sports,PayPal,New York
+771,666,2848.76,1/5/2025 7:05,Sports,Cash,Los Angeles
+772,410,3895.36,1/25/2025 13:45,Sports,Debit Card,Online
+773,407,2734.59,3/27/2025 2:50,Sports,Cash,Chicago
+774,731,506.4,6/7/2025 9:42,Electronics,Debit Card,New York
+775,742,3237.67,4/12/2025 13:47,Home,Cash,New York
+776,770,1951.12,5/29/2025 0:45,Sports,Debit Card,Chicago
+777,138,1402.77,6/1/2025 0:30,Sports,PayPal,New York
+778,652,2429.41,4/18/2025 22:45,Electronics,Debit Card,Chicago
+779,570,2292.32,2/10/2025 16:43,Beauty,Credit Card,Chicago
+780,735,3052.6,1/22/2025 4:52,Electronics,Cash,Miami
+781,231,4289.58,3/14/2025 1:26,Home,Credit Card,New York
+782,358,4977.87,4/8/2025 3:21,Clothing,Debit Card,New York
+783,458,306.92,3/9/2025 15:12,Sports,Cash,Chicago
+784,612,4594.53,6/11/2025 17:24,Home,Credit Card,New York
+785,152,3001.62,5/17/2025 1:48,Electronics,PayPal,Miami
+786,405,1794.95,2/6/2025 12:15,Clothing,Credit Card,Chicago
+787,767,3990.78,5/9/2025 16:15,Sports,Credit Card,New York
+788,779,4514.95,4/20/2025 22:47,Home,Cash,Online
+789,963,2825.48,6/2/2025 5:01,Electronics,PayPal,Los Angeles
+790,804,,4/19/2025 2:17,Sports,PayPal,Online
+791,922,2286.56,1/26/2025 3:22,Sports,Cash,Miami
+792,939,4409.04,2/22/2025 4:28,Sports,PayPal,Online
+793,496,2000.34,4/26/2025 18:50,Electronics,PayPal,Miami
+794,978,4072.62,5/27/2025 18:23,Home,Credit Card,Chicago
+795,624,651.34,1/7/2025 23:19,Sports,PayPal,Online
+796,173,2937.74,5/24/2025 13:11,Beauty,Cash,Chicago
+797,336,1084.71,1/30/2025 5:30,Home,Credit Card,New York
+798,236,4593.87,4/9/2025 1:32,Electronics,Debit Card,Chicago
+799,137,861.73,1/2/2025 5:01,Home,PayPal,Los Angeles
+800,638,3688.46,2/21/2025 12:38,Sports,PayPal,Miami
+801,820,,2/5/2025 4:10,Home,Credit Card,Los Angeles
+802,937,1825.54,1/12/2025 10:40,Sports,PayPal,Online
+803,295,1926.05,2/27/2025 12:16,Clothing,Debit Card,Chicago
+804,380,4654.56,1/1/2025 22:43,Sports,Cash,Miami
+805,369,2584.3,2/25/2025 18:05,Home,Cash,Los Angeles
+806,811,3904.39,3/8/2025 9:41,Clothing,Debit Card,New York
+807,950,297.1,5/16/2025 8:31,Sports,Debit Card,New York
+808,991,2781.52,5/14/2025 7:30,Clothing,Credit Card,Los Angeles
+809,99,3205.34,4/27/2025 4:54,Sports,PayPal,Los Angeles
+810,145,4549.12,5/29/2025 5:20,Sports,Credit Card,Miami
+811,794,4199.12,6/4/2025 18:31,Home,Cash,Miami
+812,397,4087.64,2/24/2025 3:30,Clothing,Credit Card,Miami
+813,27,2468.38,5/16/2025 4:49,Home,PayPal,Los Angeles
+814,928,2653.98,2/17/2025 7:21,Electronics,Credit Card,Miami
+815,589,3656.1,1/24/2025 8:06,Clothing,PayPal,Los Angeles
+816,971,,2/5/2025 1:07,Beauty,PayPal,New York
+817,797,2042.13,4/23/2025 12:52,Beauty,Credit Card,Chicago
+818,768,4442.21,2/21/2025 20:46,Home,Credit Card,New York
+819,619,3816.74,3/20/2025 7:30,Home,Credit Card,Online
+820,656,,1/30/2025 9:09,Beauty,Cash,Chicago
+821,158,1300.79,3/16/2025 5:53,Sports,Cash,Miami
+822,806,184.17,5/11/2025 21:12,Sports,Credit Card,Online
+823,43,130.85,5/2/2025 2:51,Sports,PayPal,Chicago
+824,377,488.95,4/8/2025 22:12,Home,PayPal,Chicago
+825,101,936.99,2/8/2025 23:03,Clothing,Credit Card,Los Angeles
+826,813,2034.22,1/19/2025 23:23,Beauty,PayPal,Chicago
+827,240,3141.98,5/17/2025 18:45,Sports,Credit Card,Online
+828,879,1693.57,1/3/2025 4:37,Sports,PayPal,New York
+829,245,1562.36,2/5/2025 20:13,Beauty,Credit Card,Chicago
+830,574,4411.81,4/4/2025 5:25,Home,Cash,Chicago
+831,10,220.35,5/21/2025 17:47,Sports,PayPal,Los Angeles
+832,586,4904.92,4/26/2025 22:55,Home,PayPal,Los Angeles
+833,660,2168.37,1/17/2025 23:09,Home,PayPal,Los Angeles
+834,537,87.12,3/14/2025 5:00,Beauty,Cash,Los Angeles
+835,683,2600.42,5/20/2025 2:32,Sports,Credit Card,Chicago
+836,618,4083.59,1/26/2025 23:20,Beauty,Debit Card,Los Angeles
+837,888,4312.87,1/9/2025 16:06,Home,Cash,New York
+838,104,3736.19,3/30/2025 16:29,Home,Debit Card,Miami
+839,853,1081.65,6/16/2025 21:22,Home,Credit Card,Miami
+840,516,4669.1,4/20/2025 22:06,Sports,Cash,Online
+841,331,3937.72,1/28/2025 13:50,Home,Debit Card,Chicago
+842,833,4786.84,1/28/2025 15:30,Electronics,PayPal,Chicago
+843,495,1923.08,5/17/2025 7:54,Home,Debit Card,Online
+844,521,3968.51,3/5/2025 23:56,Clothing,Debit Card,New York
+845,378,3095.94,3/21/2025 2:06,Beauty,Debit Card,Chicago
+846,370,3109.27,4/1/2025 12:50,Beauty,Debit Card,Chicago
+847,156,2475.38,5/5/2025 10:24,Home,Debit Card,Los Angeles
+848,205,,3/19/2025 18:36,Beauty,Debit Card,Chicago
+849,825,1097.11,5/2/2025 5:07,Electronics,Cash,Miami
+850,524,,1/5/2025 1:40,Sports,Credit Card,Los Angeles
+851,554,3721.88,4/14/2025 2:34,Beauty,Cash,Los Angeles
+852,733,557.26,3/16/2025 20:07,Home,Cash,Online
+853,743,2597.74,4/19/2025 2:37,Sports,Cash,Chicago
+854,398,3447.83,4/27/2025 20:25,Clothing,Debit Card,Miami
+855,67,4168.82,1/24/2025 21:28,Sports,Credit Card,Online
+856,123,3476.24,3/13/2025 3:48,Sports,Credit Card,New York
+857,7,697.57,6/13/2025 12:03,Beauty,Debit Card,Chicago
+858,846,2038.07,4/10/2025 17:12,Electronics,Credit Card,Miami
+859,60,3651.58,3/1/2025 11:49,Home,PayPal,Online
+860,82,2913.33,5/9/2025 3:54,Clothing,PayPal,Los Angeles
+861,656,2937.02,4/29/2025 15:17,Beauty,PayPal,Miami
+862,990,788.52,3/12/2025 10:50,Beauty,Credit Card,Online
+863,911,2421.09,4/18/2025 8:01,Electronics,Debit Card,Chicago
+864,723,3349.77,3/9/2025 14:58,Clothing,Cash,Los Angeles
+865,109,3906.21,3/30/2025 6:54,Electronics,Credit Card,Los Angeles
+866,318,3070.8,5/25/2025 13:36,Home,PayPal,New York
+867,696,865.55,4/17/2025 6:29,Electronics,Credit Card,Online
+868,26,3378.58,4/27/2025 11:24,Clothing,Debit Card,Los Angeles
+869,89,3235.69,1/6/2025 11:55,Beauty,PayPal,Los Angeles
+870,599,3148.32,5/26/2025 1:04,Sports,Credit Card,Online
+871,153,594.41,3/2/2025 2:10,Beauty,Cash,New York
+872,218,673.2,3/15/2025 8:39,Clothing,Debit Card,Online
+873,230,3671.14,2/7/2025 13:32,Sports,Credit Card,Chicago
+874,20,3934.82,5/4/2025 10:16,Sports,Credit Card,Online
+875,856,2666.01,5/8/2025 14:55,Beauty,PayPal,Los Angeles
+876,129,1812.25,1/26/2025 13:26,Beauty,Credit Card,New York
+877,483,1242.55,1/17/2025 3:11,Clothing,Debit Card,Chicago
+878,344,3534.78,2/7/2025 0:30,Electronics,Credit Card,Los Angeles
+879,266,3625.53,2/1/2025 22:35,Home,PayPal,Chicago
+880,681,4624.07,5/18/2025 8:05,Clothing,Debit Card,Chicago
+881,340,896.57,4/21/2025 9:01,Electronics,Cash,Online
+882,952,4608.54,6/1/2025 14:34,Sports,Cash,Online
+883,980,2715.8,2/7/2025 16:27,Clothing,Cash,Online
+884,214,4640.15,3/13/2025 8:28,Clothing,Credit Card,Los Angeles
+885,696,1114.14,6/6/2025 5:21,Electronics,PayPal,Chicago
+886,998,,3/16/2025 15:42,Beauty,Debit Card,Online
+887,216,3982.83,5/30/2025 16:26,Beauty,Cash,Los Angeles
+888,420,3424.18,2/14/2025 5:41,Sports,Debit Card,Chicago
+889,650,2667.77,6/8/2025 12:01,Electronics,Debit Card,Los Angeles
+890,313,3469.31,4/14/2025 8:11,Home,Cash,Online
+891,90,4080.14,1/26/2025 17:53,Clothing,Cash,Miami
+892,777,1712.9,5/25/2025 16:39,Electronics,Debit Card,Chicago
+893,71,470.04,3/29/2025 13:05,Electronics,PayPal,Online
+894,559,4291.48,2/12/2025 20:01,Electronics,Credit Card,Online
+895,966,4382.49,2/16/2025 10:28,Clothing,PayPal,Chicago
+896,901,2719.3,1/1/2025 22:40,Sports,Cash,Chicago
+897,875,4883.98,6/14/2025 9:11,Beauty,Credit Card,New York
+898,401,2638.12,6/6/2025 11:56,Clothing,Debit Card,Los Angeles
+899,418,4549.18,1/4/2025 4:51,Home,Debit Card,Miami
+900,256,2765.69,2/17/2025 8:36,Clothing,Cash,Los Angeles
+901,567,4899.77,6/2/2025 15:25,Clothing,Credit Card,Miami
+902,117,1657.23,2/15/2025 1:29,Sports,Cash,New York
+903,919,735.32,1/9/2025 8:53,Clothing,Cash,Los Angeles
+904,913,1334.62,4/9/2025 5:51,Sports,Debit Card,Chicago
+905,31,258.16,5/28/2025 23:35,Sports,Credit Card,Miami
+906,848,3313.64,5/29/2025 3:10,Sports,PayPal,New York
+907,244,3311.41,6/6/2025 0:30,Sports,PayPal,New York
+908,441,,5/12/2025 15:19,Beauty,Cash,New York
+909,450,4579.04,1/9/2025 22:51,Clothing,Credit Card,Miami
+910,202,4542.68,3/26/2025 4:05,Home,Cash,Online
+911,141,319.55,4/1/2025 13:14,Beauty,Debit Card,Chicago
+912,63,4903.78,4/20/2025 15:29,Beauty,Debit Card,Chicago
+913,642,1546.61,5/18/2025 22:07,Sports,PayPal,New York
+914,610,4419.84,5/2/2025 9:57,Beauty,Cash,Online
+915,755,2985.85,1/2/2025 6:39,Electronics,Cash,Chicago
+916,478,1645.06,1/15/2025 7:38,Electronics,PayPal,New York
+917,169,1569.36,4/4/2025 16:36,Electronics,PayPal,Los Angeles
+918,60,4687.61,1/21/2025 4:28,Electronics,Cash,Miami
+919,489,1557.84,5/27/2025 15:29,Home,Credit Card,New York
+920,333,3877.7,5/1/2025 12:36,Electronics,Debit Card,New York
+921,853,,4/5/2025 8:22,Home,PayPal,Online
+922,230,2641.59,3/1/2025 13:18,Sports,PayPal,New York
+923,947,1090.62,1/9/2025 12:05,Home,Debit Card,Miami
+924,526,2521.09,6/16/2025 2:32,Clothing,Cash,Miami
+925,637,975.73,4/30/2025 3:42,Electronics,Cash,Chicago
+926,969,724.96,4/7/2025 23:57,Beauty,Credit Card,New York
+927,488,2250.71,4/27/2025 19:49,Home,Credit Card,Chicago
+928,302,4334.04,5/22/2025 7:19,Beauty,Debit Card,Miami
+929,86,4256.47,1/18/2025 23:25,Sports,Cash,Chicago
+930,70,2156.22,5/5/2025 19:04,Beauty,Credit Card,Chicago
+931,349,3267.7,4/16/2025 9:30,Beauty,Debit Card,Miami
+932,378,4149.87,6/5/2025 17:32,Electronics,Credit Card,Online
+933,84,4427.79,5/24/2025 2:38,Electronics,PayPal,New York
+934,788,3242.93,4/23/2025 1:06,Beauty,PayPal,Chicago
+935,690,2831.03,3/7/2025 20:52,Beauty,Debit Card,Los Angeles
+936,752,4226.16,5/17/2025 22:40,Sports,Debit Card,Chicago
+937,483,2544.59,3/16/2025 4:38,Beauty,Cash,Chicago
+938,54,608.46,6/9/2025 12:41,Electronics,Debit Card,New York
+939,796,1259.34,2/24/2025 0:06,Clothing,Cash,New York
+940,395,11.88,4/9/2025 2:54,Home,Credit Card,Online
+941,481,2384.11,1/7/2025 6:28,Electronics,PayPal,Chicago
+942,48,2828.92,3/19/2025 6:18,Sports,PayPal,Online
+943,790,4403.46,6/13/2025 5:25,Electronics,Debit Card,New York
+944,210,3463.49,2/4/2025 20:33,Electronics,PayPal,New York
+945,164,332.21,3/20/2025 14:25,Sports,Cash,Los Angeles
+946,30,1252.53,6/1/2025 10:04,Home,Cash,Miami
+947,208,2226.28,3/7/2025 3:05,Beauty,Cash,Los Angeles
+948,351,822.8,3/20/2025 23:31,Beauty,Debit Card,New York
+949,191,765.55,6/16/2025 21:13,Clothing,Cash,Online
+950,763,564.56,3/8/2025 3:08,Beauty,PayPal,Miami
+951,227,989.98,5/14/2025 6:58,Beauty,Cash,Online
+952,825,1485.02,6/5/2025 2:49,Sports,Debit Card,Online
+953,174,4405.23,1/27/2025 20:17,Electronics,Debit Card,Miami
+954,66,3953.3,1/17/2025 10:46,Home,Debit Card,Online
+955,229,4694.35,4/10/2025 23:33,Sports,Cash,Miami
+956,785,2130.25,5/13/2025 9:55,Electronics,Debit Card,Chicago
+957,120,1538.84,5/28/2025 22:50,Home,Debit Card,New York
+958,934,3987.4,4/8/2025 9:17,Home,Cash,Los Angeles
+959,798,2359.39,1/31/2025 19:06,Home,Credit Card,Los Angeles
+960,473,2571.55,2/10/2025 23:20,Electronics,Cash,Los Angeles
+961,859,827.86,1/3/2025 22:26,Clothing,Cash,New York
+962,274,2238.32,6/5/2025 12:16,Beauty,Credit Card,New York
+963,808,2829.24,2/20/2025 15:02,Home,Debit Card,Los Angeles
+964,623,3667.92,4/5/2025 14:10,Clothing,Credit Card,Los Angeles
+965,514,2633.39,1/26/2025 2:27,Clothing,Cash,Online
+966,823,2870.19,3/19/2025 2:14,Clothing,PayPal,Miami
+967,13,631.85,2/18/2025 17:30,Home,Cash,Online
+968,238,1223.14,1/7/2025 8:55,Beauty,Debit Card,Los Angeles
+969,266,4238.05,2/5/2025 18:42,Electronics,Debit Card,Chicago
+970,387,2243.19,3/31/2025 23:10,Sports,Debit Card,Chicago
+971,648,2296.35,6/5/2025 3:43,Home,Credit Card,New York
+972,532,4333.14,6/3/2025 3:09,Electronics,Cash,Online
+973,176,,3/31/2025 14:14,Sports,Cash,Miami
+974,670,3020.45,4/19/2025 12:40,Beauty,Cash,New York
+975,831,3415.38,2/21/2025 23:29,Home,PayPal,New York
+976,975,2640.59,5/21/2025 2:01,Electronics,Cash,Los Angeles
+977,431,4032.94,5/21/2025 1:12,Beauty,Debit Card,Online
+978,710,410.11,1/14/2025 16:01,Electronics,Cash,Miami
+979,556,2130.7,3/29/2025 18:26,Clothing,PayPal,New York
+980,527,4424.47,3/20/2025 6:54,Sports,Credit Card,Online
+981,239,3867.26,2/25/2025 23:37,Beauty,Debit Card,Online
+982,563,3935.86,1/24/2025 2:35,Sports,Debit Card,New York
+983,623,559.51,6/11/2025 5:55,Beauty,Cash,New York
+984,271,4213.12,1/6/2025 19:50,Sports,Cash,Online
+985,881,1993.41,4/5/2025 18:53,Home,Debit Card,Online
+986,694,166.41,4/18/2025 10:50,Sports,PayPal,Miami
+987,922,697.3,2/18/2025 9:04,Sports,PayPal,Online
+988,667,2815.32,6/15/2025 20:57,Beauty,Cash,Los Angeles
+989,447,,1/22/2025 14:27,Beauty,Cash,Chicago
+990,780,1050.33,4/20/2025 20:55,Sports,Credit Card,Chicago
+991,162,3055,4/30/2025 22:46,Clothing,Debit Card,Los Angeles
+992,303,457.81,6/1/2025 21:18,Clothing,PayPal,Chicago
+993,845,2379.23,5/5/2025 5:34,Clothing,Credit Card,Online
+994,443,4232.53,2/28/2025 4:00,Electronics,Debit Card,Chicago
+995,927,1368.17,2/8/2025 21:53,Clothing,Cash,Los Angeles
+996,60,712.47,1/13/2025 14:16,Electronics,Debit Card,New York
+997,235,2125.18,6/9/2025 12:37,Electronics,PayPal,Chicago
+998,669,3069.08,4/1/2025 19:59,Home,PayPal,Los Angeles
+999,931,2262.75,6/8/2025 1:36,Clothing,Debit Card,Online
+1000,925,4141.44,5/24/2025 13:39,Electronics,PayPal,Online

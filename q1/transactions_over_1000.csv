@@ -1,0 +1,771 @@
+transaction_id,customer_id,amount,transaction_date,product_category,payment_method,store_location
+1,565,"$2,992.47",3/10/2025 1:20,Sports,Debit Card,New York
+2,323,"$2,041.87",1/2/2025 15:24,Clothing,Cash,New York
+5,547,"$3,063.28",6/14/2025 4:28,Clothing,PayPal,Los Angeles
+7,615,"$3,027.38",3/18/2025 15:59,Beauty,Credit Card,Chicago
+8,1,"$2,652.57",4/19/2025 14:46,Home,Credit Card,New York
+9,200,"$2,821.46",1/22/2025 19:12,Electronics,PayPal,New York
+10,757,"$3,896.31",2/27/2025 9:18,Clothing,PayPal,Los Angeles
+11,548,"$3,925.15",2/20/2025 5:53,Sports,Credit Card,Online
+12,576,"$1,287.14",3/22/2025 2:04,Beauty,Credit Card,Miami
+13,286,"$2,071.72",5/6/2025 3:01,Clothing,Cash,Miami
+15,927,"$4,349.07",1/7/2025 17:00,Beauty,Debit Card,Chicago
+17,724,"$1,616.35",3/26/2025 18:46,Sports,Debit Card,Chicago
+18,923,"$2,523.63",1/1/2025 13:36,Electronics,Credit Card,New York
+20,48,"$4,357.90",3/27/2025 6:31,Electronics,Debit Card,New York
+21,752,"$2,707.82",5/26/2025 7:35,Clothing,Credit Card,Miami
+22,609,"$4,341.42",4/18/2025 0:36,Sports,Cash,Online
+23,303,"$1,108.71",1/22/2025 10:42,Electronics,Credit Card,Miami
+25,657,"$3,206.91",4/28/2025 12:32,Clothing,Credit Card,New York
+28,659,"$2,712.18",2/1/2025 3:32,Sports,Cash,Online
+30,534,"$2,749.55",5/20/2025 0:18,Electronics,Debit Card,Miami
+31,433,"$1,330.01",1/27/2025 2:30,Clothing,PayPal,Los Angeles
+32,877,"$1,208.22",2/16/2025 10:54,Home,Debit Card,Los Angeles
+33,259,"$2,011.03",1/23/2025 21:57,Home,Debit Card,Online
+35,208,"$3,632.29",1/25/2025 13:36,Home,Cash,Los Angeles
+36,271,"$3,320.88",3/14/2025 10:20,Beauty,Debit Card,Miami
+37,59,"$1,305.45",6/4/2025 0:50,Sports,Credit Card,New York
+38,377,"$4,321.29",4/28/2025 7:17,Beauty,Debit Card,New York
+40,922,"$3,722.38",1/11/2025 7:26,Sports,Cash,Online
+41,210,"$4,484.24",1/27/2025 13:52,Beauty,Cash,Los Angeles
+42,833,"$2,408.29",3/13/2025 17:49,Sports,Credit Card,Los Angeles
+43,76,"$4,803.45",3/14/2025 23:35,Electronics,Cash,Miami
+44,837,"$3,422.42",3/21/2025 19:56,Home,Cash,Miami
+46,210,"$4,277.78",2/23/2025 4:30,Beauty,Credit Card,Online
+47,704,"$4,559.71",4/27/2025 10:19,Beauty,Credit Card,Chicago
+48,171,"$1,722.40",6/2/2025 12:22,Clothing,Credit Card,Los Angeles
+49,752,"$1,431.10",1/19/2025 9:07,Electronics,PayPal,New York
+50,67,"$4,775.53",1/5/2025 8:26,Electronics,Debit Card,Online
+52,509,"$1,589.99",5/18/2025 16:10,Clothing,Cash,Chicago
+53,123,"$2,158.73",5/17/2025 5:13,Home,Debit Card,Online
+54,902,"$2,431.82",1/11/2025 22:57,Beauty,Debit Card,Miami
+55,917,"$1,814.91",2/22/2025 11:33,Beauty,Credit Card,New York
+56,676,"$2,543.20",1/23/2025 9:11,Electronics,Credit Card,New York
+57,710,"$1,248.98",1/27/2025 11:07,Sports,Cash,Chicago
+58,763,"$4,785.24",4/8/2025 13:25,Sports,Debit Card,New York
+59,218,"$1,342.26",4/25/2025 0:29,Sports,Credit Card,Miami
+61,436,"$3,811.29",5/2/2025 19:08,Home,PayPal,Los Angeles
+62,995,"$4,299.69",1/4/2025 19:54,Electronics,Debit Card,New York
+64,434,"$1,654.41",4/20/2025 1:34,Clothing,Credit Card,Online
+65,67,"$3,716.87",4/11/2025 18:34,Electronics,Cash,Online
+66,762,"$2,433.39",4/3/2025 3:52,Sports,Debit Card,Chicago
+68,719,"$4,568.21",4/5/2025 0:46,Home,Credit Card,Los Angeles
+69,383,"$3,937.65",3/27/2025 18:47,Clothing,Debit Card,Chicago
+70,32,"$1,272.21",4/3/2025 7:26,Sports,Debit Card,Miami
+71,55,"$1,594.86",2/8/2025 21:00,Electronics,Debit Card,Los Angeles
+72,166,"$2,510.17",2/24/2025 12:52,Clothing,PayPal,New York
+73,87,"$1,220.34",2/25/2025 16:03,Sports,Debit Card,Miami
+74,401,"$2,041.88",2/28/2025 16:28,Clothing,Credit Card,Chicago
+75,491,"$2,100.21",5/3/2025 16:31,Clothing,Cash,Chicago
+76,741,"$3,940.23",1/2/2025 12:32,Clothing,PayPal,Online
+77,373,"$4,614.19",3/17/2025 15:41,Home,Debit Card,New York
+78,296,"$3,743.55",2/4/2025 8:17,Home,Credit Card,Chicago
+81,760,"$4,100.09",1/27/2025 2:35,Sports,Credit Card,New York
+84,80,"$3,686.68",2/7/2025 7:07,Electronics,Debit Card,Online
+85,531,"$4,690.75",2/20/2025 1:20,Clothing,Debit Card,Chicago
+86,153,"$4,077.96",4/3/2025 16:48,Sports,Debit Card,Miami
+87,598,"$1,632.77",6/5/2025 5:43,Clothing,PayPal,Miami
+88,683,"$1,574.76",4/19/2025 7:18,Beauty,Cash,Online
+89,688,"$1,378.09",6/14/2025 3:58,Clothing,Debit Card,Chicago
+90,252,"$3,704.49",6/11/2025 3:03,Sports,Debit Card,Chicago
+92,780,"$1,087.77",6/6/2025 19:12,Beauty,Debit Card,New York
+93,831,"$4,250.20",5/25/2025 1:40,Beauty,Cash,Miami
+94,83,"$4,045.33",5/3/2025 21:04,Sports,Cash,Chicago
+95,102,"$4,979.11",4/24/2025 16:42,Sports,Cash,Los Angeles
+96,936,"$2,288.29",4/20/2025 13:30,Electronics,Cash,Miami
+97,534,"$2,013.88",1/15/2025 8:36,Sports,PayPal,Online
+98,270,"$3,274.94",3/1/2025 10:19,Electronics,Cash,Online
+99,19,"$4,361.19",5/27/2025 16:17,Electronics,Credit Card,Chicago
+100,372,"$2,884.53",1/4/2025 9:03,Clothing,PayPal,New York
+101,817,"$1,893.09",4/16/2025 14:24,Clothing,Cash,Online
+102,402,"$2,067.00",2/6/2025 10:36,Electronics,Cash,Los Angeles
+103,129,"$3,977.43",6/11/2025 22:59,Beauty,Cash,Chicago
+105,735,"$3,802.28",2/12/2025 3:19,Home,PayPal,New York
+106,817,"$3,604.29",4/24/2025 9:41,Clothing,Cash,Los Angeles
+107,814,"$3,738.70",1/17/2025 23:04,Home,Credit Card,Online
+108,854,"$2,458.61",4/14/2025 9:08,Home,Debit Card,New York
+109,805,"$4,463.67",4/25/2025 6:17,Beauty,Debit Card,Miami
+111,576,"$2,177.12",1/9/2025 3:39,Beauty,Credit Card,Chicago
+112,541,"$2,660.53",5/30/2025 17:31,Electronics,Credit Card,Online
+113,493,"$3,127.99",3/14/2025 7:15,Electronics,PayPal,Chicago
+115,617,"$1,006.88",1/22/2025 5:12,Electronics,Debit Card,Chicago
+118,568,"$3,350.57",2/22/2025 5:53,Clothing,Credit Card,Online
+119,100,"$3,231.06",2/17/2025 18:59,Clothing,PayPal,Los Angeles
+121,671,"$2,121.15",6/9/2025 17:45,Electronics,Debit Card,Los Angeles
+122,627,"$3,969.06",1/17/2025 9:27,Home,Debit Card,New York
+123,464,"$1,249.01",4/1/2025 1:16,Beauty,Credit Card,Los Angeles
+124,841,"$4,277.32",6/2/2025 9:27,Sports,Debit Card,New York
+125,408,"$1,621.62",2/7/2025 15:10,Electronics,Credit Card,Chicago
+126,12,"$3,696.64",2/15/2025 19:59,Beauty,Cash,Online
+128,840,"$2,214.43",3/24/2025 6:31,Clothing,Credit Card,Los Angeles
+129,995,"$4,653.24",4/25/2025 23:19,Beauty,Cash,Chicago
+130,35,"$3,691.23",1/18/2025 18:29,Home,Debit Card,Online
+131,836,"$1,913.75",2/6/2025 7:55,Home,Debit Card,Los Angeles
+132,346,"$4,689.16",5/20/2025 8:00,Electronics,Cash,Online
+134,106,"$4,710.53",1/5/2025 23:59,Home,Cash,New York
+135,850,"$4,142.98",1/23/2025 17:28,Clothing,PayPal,Los Angeles
+136,486,"$4,597.50",3/24/2025 17:03,Beauty,Credit Card,Miami
+137,33,"$4,934.62",3/28/2025 19:03,Electronics,Cash,Online
+139,283,"$4,270.05",5/15/2025 1:20,Home,PayPal,Online
+140,946,"$4,771.85",2/20/2025 2:00,Sports,Debit Card,Chicago
+141,24,"$1,164.89",6/5/2025 9:17,Clothing,Debit Card,Chicago
+142,283,"$3,371.60",2/25/2025 14:09,Home,PayPal,Chicago
+143,855,"$2,371.54",4/28/2025 10:13,Home,Cash,New York
+144,901,"$4,640.09",1/17/2025 4:11,Sports,Debit Card,Miami
+146,793,"$4,439.15",4/29/2025 0:59,Beauty,Debit Card,Online
+149,697,"$4,683.07",5/13/2025 0:48,Electronics,Credit Card,New York
+150,507,"$1,548.34",2/28/2025 14:33,Home,Cash,New York
+151,849,"$4,016.28",4/25/2025 11:30,Clothing,Credit Card,Los Angeles
+152,760,"$3,421.32",1/1/2025 7:11,Home,Credit Card,Chicago
+153,152,"$1,667.64",6/17/2025 0:20,Sports,Debit Card,New York
+156,131,"$3,292.45",5/13/2025 10:00,Home,Credit Card,Online
+157,488,"$4,240.74",4/5/2025 23:06,Beauty,PayPal,New York
+158,127,"$1,493.13",3/17/2025 7:44,Beauty,Debit Card,New York
+160,607,"$1,349.06",5/2/2025 10:29,Home,Debit Card,Online
+161,298,"$1,192.58",3/1/2025 8:22,Home,Cash,Chicago
+162,391,"$3,058.64",5/4/2025 16:40,Beauty,Cash,Los Angeles
+163,317,"$4,536.00",4/2/2025 23:28,Sports,Debit Card,Online
+164,902,"$1,493.73",3/1/2025 4:51,Home,Credit Card,Chicago
+166,253,"$3,244.47",1/21/2025 1:34,Electronics,Debit Card,New York
+169,479,"$3,165.42",5/27/2025 4:51,Clothing,PayPal,Miami
+170,40,"$3,335.28",5/3/2025 6:40,Sports,Cash,Chicago
+171,991,"$3,346.40",5/29/2025 20:17,Clothing,Cash,Miami
+173,10,"$3,456.05",4/15/2025 19:26,Home,Debit Card,Online
+174,513,"$4,212.29",4/2/2025 17:01,Home,PayPal,New York
+175,736,"$3,851.13",3/8/2025 15:06,Clothing,PayPal,Online
+176,21,"$4,674.53",2/25/2025 15:55,Clothing,Credit Card,Miami
+179,542,"$4,636.94",3/29/2025 2:45,Beauty,PayPal,Online
+180,53,"$4,547.68",4/26/2025 12:07,Clothing,PayPal,Online
+181,103,"$1,274.08",3/31/2025 12:04,Beauty,Cash,Miami
+182,482,"$4,594.95",3/8/2025 12:27,Clothing,Cash,Chicago
+184,438,"$1,825.56",2/17/2025 20:45,Electronics,PayPal,Online
+185,679,"$1,764.94",5/27/2025 2:03,Beauty,Credit Card,Chicago
+188,383,"$3,622.81",6/8/2025 13:53,Electronics,Cash,Miami
+190,63,"$1,400.65",2/7/2025 6:11,Clothing,Credit Card,New York
+191,248,"$4,136.33",5/23/2025 8:37,Clothing,Debit Card,Online
+192,817,"$1,147.55",2/2/2025 4:43,Beauty,Credit Card,Chicago
+193,472,"$3,107.41",5/21/2025 14:29,Beauty,Credit Card,Online
+194,312,"$2,422.86",1/13/2025 13:45,Clothing,PayPal,Online
+196,84,"$2,123.96",4/11/2025 9:35,Sports,Cash,Los Angeles
+197,697,"$4,736.17",3/20/2025 15:49,Clothing,Credit Card,Online
+198,394,"$2,731.16",1/5/2025 6:20,Beauty,Credit Card,Los Angeles
+199,872,"$4,564.57",5/20/2025 8:21,Electronics,Debit Card,Online
+201,781,"$2,591.08",5/12/2025 22:56,Electronics,PayPal,Miami
+202,301,"$4,330.10",4/8/2025 6:17,Clothing,Debit Card,Chicago
+204,37,"$1,944.72",2/3/2025 17:50,Sports,Credit Card,Miami
+206,769,"$2,213.26",1/8/2025 11:02,Sports,Cash,Chicago
+207,669,"$1,160.19",2/18/2025 21:17,Home,Credit Card,Los Angeles
+209,301,"$3,526.29",3/20/2025 7:04,Clothing,PayPal,Chicago
+210,28,"$2,404.43",5/11/2025 16:03,Clothing,Credit Card,Chicago
+212,895,"$1,061.22",1/10/2025 16:12,Beauty,Credit Card,Miami
+213,409,"$3,379.98",4/18/2025 11:31,Home,Credit Card,Miami
+214,27,"$2,887.52",5/15/2025 8:47,Clothing,Debit Card,Chicago
+215,733,"$1,072.74",1/11/2025 9:19,Home,Debit Card,New York
+217,627,"$1,725.83",4/11/2025 23:49,Home,Debit Card,Miami
+219,370,"$2,163.21",4/2/2025 5:22,Electronics,Debit Card,Online
+220,496,"$3,061.88",2/1/2025 11:15,Electronics,PayPal,Online
+222,603,"$1,617.81",6/9/2025 12:46,Electronics,Cash,Online
+223,92,"$1,713.16",5/7/2025 8:47,Home,Credit Card,Chicago
+224,33,"$3,477.45",5/29/2025 9:29,Home,Credit Card,New York
+225,422,"$4,873.25",5/9/2025 10:29,Electronics,Debit Card,New York
+226,881,"$1,938.78",5/19/2025 5:00,Clothing,Credit Card,Chicago
+227,402,"$2,191.05",1/28/2025 1:30,Electronics,Credit Card,Chicago
+228,208,"$2,875.15",1/15/2025 2:40,Home,Debit Card,Los Angeles
+229,894,"$1,857.67",1/27/2025 1:00,Clothing,Cash,Miami
+230,566,"$2,429.47",3/31/2025 13:45,Electronics,Cash,Online
+231,738,"$4,904.77",3/2/2025 1:32,Sports,Cash,Los Angeles
+233,118,"$4,304.25",4/15/2025 7:45,Beauty,Debit Card,Online
+234,340,"$3,132.55",1/8/2025 0:10,Home,PayPal,Chicago
+235,297,"$1,616.80",1/31/2025 6:25,Beauty,PayPal,Chicago
+236,440,"$3,682.17",5/21/2025 0:11,Clothing,PayPal,New York
+239,729,"$3,283.74",1/18/2025 19:46,Clothing,Cash,Los Angeles
+240,905,"$1,141.21",1/7/2025 4:04,Beauty,Debit Card,New York
+241,66,"$2,589.77",4/1/2025 20:06,Clothing,Credit Card,Chicago
+242,596,"$2,177.23",4/11/2025 15:18,Home,Credit Card,Los Angeles
+243,644,"$4,522.92",3/11/2025 22:56,Sports,PayPal,Online
+244,867,"$4,881.05",1/20/2025 14:52,Electronics,Cash,Online
+245,920,"$2,169.89",2/26/2025 18:03,Beauty,Cash,Miami
+246,409,"$4,655.97",3/9/2025 19:29,Clothing,Cash,Online
+249,276,"$3,551.77",5/24/2025 14:08,Electronics,Cash,Miami
+250,474,"$4,304.02",6/15/2025 22:46,Electronics,PayPal,Chicago
+251,558,"$1,057.89",4/30/2025 1:58,Sports,Credit Card,New York
+252,885,"$3,957.34",1/31/2025 14:36,Beauty,Debit Card,Miami
+253,473,"$3,009.18",2/27/2025 5:23,Home,Credit Card,Los Angeles
+254,757,"$2,521.16",3/22/2025 13:42,Home,Cash,Chicago
+255,877,"$3,974.51",4/28/2025 18:58,Sports,Debit Card,Los Angeles
+256,566,"$1,966.37",4/1/2025 1:01,Sports,PayPal,New York
+257,457,"$2,257.20",5/8/2025 23:30,Home,Credit Card,New York
+258,600,"$4,677.29",3/25/2025 11:47,Home,Credit Card,Chicago
+259,340,"$4,058.10",5/21/2025 14:35,Electronics,Cash,Los Angeles
+260,205,"$3,657.37",6/9/2025 6:10,Home,Credit Card,Los Angeles
+261,883,"$1,459.36",3/2/2025 6:12,Sports,Credit Card,Chicago
+262,300,"$1,984.05",5/30/2025 23:12,Electronics,PayPal,Los Angeles
+264,697,"$3,721.42",6/16/2025 22:40,Home,PayPal,Online
+265,41,"$2,521.36",5/20/2025 5:36,Electronics,Cash,Miami
+266,267,"$1,382.88",3/2/2025 3:58,Clothing,Credit Card,Los Angeles
+267,688,"$3,936.82",3/17/2025 12:24,Electronics,Cash,Los Angeles
+268,544,"$2,440.94",2/3/2025 8:06,Home,Credit Card,New York
+269,246,"$1,516.26",2/22/2025 17:10,Sports,Credit Card,Online
+270,815,"$3,342.14",5/7/2025 18:19,Sports,Debit Card,Online
+271,418,"$1,220.98",4/28/2025 17:46,Clothing,PayPal,Los Angeles
+273,648,"$2,716.77",4/16/2025 8:39,Electronics,Debit Card,New York
+276,240,"$1,001.23",3/3/2025 20:31,Beauty,Debit Card,New York
+277,277,"$3,965.03",2/11/2025 11:11,Home,Cash,Los Angeles
+278,142,"$1,365.73",5/2/2025 21:40,Beauty,Credit Card,Miami
+279,219,"$2,937.66",6/9/2025 9:17,Sports,PayPal,New York
+280,88,"$3,938.93",2/15/2025 7:07,Home,Credit Card,Miami
+281,733,"$4,410.09",2/25/2025 0:56,Clothing,PayPal,Chicago
+282,397,"$4,770.81",2/16/2025 9:03,Electronics,Credit Card,Miami
+283,420,"$1,030.65",6/8/2025 18:22,Sports,Debit Card,New York
+284,689,"$4,487.05",3/24/2025 14:55,Home,PayPal,Online
+287,572,"$3,008.61",4/6/2025 2:53,Home,Cash,Online
+290,736,"$2,604.43",2/15/2025 13:07,Clothing,PayPal,Los Angeles
+291,20,"$3,402.30",3/24/2025 2:17,Electronics,PayPal,Miami
+292,950,"$2,618.93",1/16/2025 6:23,Electronics,Credit Card,Miami
+294,314,"$1,405.61",5/21/2025 6:36,Beauty,Cash,Los Angeles
+295,818,"$2,457.39",1/17/2025 16:24,Beauty,Credit Card,Los Angeles
+297,878,"$3,479.54",4/22/2025 21:30,Clothing,PayPal,Chicago
+298,82,"$2,393.97",4/21/2025 1:10,Sports,Debit Card,Miami
+302,215,"$3,418.90",6/15/2025 0:41,Sports,Credit Card,Los Angeles
+303,347,"$2,557.31",4/4/2025 12:54,Beauty,PayPal,Chicago
+305,103,"$4,259.69",1/25/2025 23:27,Sports,PayPal,Miami
+307,317,"$4,165.60",4/20/2025 2:07,Beauty,Cash,Chicago
+308,390,"$1,060.95",3/3/2025 11:35,Electronics,Debit Card,Miami
+309,505,"$2,880.67",4/29/2025 0:55,Electronics,Credit Card,Online
+310,909,"$2,000.38",4/18/2025 12:22,Home,PayPal,Los Angeles
+311,824,"$1,478.58",1/3/2025 1:21,Home,Cash,Miami
+313,628,"$4,443.75",5/10/2025 23:44,Sports,PayPal,New York
+314,410,"$4,927.53",4/13/2025 22:58,Beauty,PayPal,New York
+315,41,"$4,539.88",4/19/2025 2:29,Clothing,Debit Card,Miami
+316,137,"$4,413.20",3/12/2025 5:23,Home,PayPal,Chicago
+317,414,"$2,761.36",1/3/2025 3:13,Home,Cash,Los Angeles
+318,677,"$1,425.56",1/10/2025 11:59,Home,Credit Card,Miami
+319,88,"$1,055.23",4/24/2025 3:44,Clothing,Debit Card,Chicago
+320,397,"$1,883.01",4/29/2025 14:52,Home,Debit Card,New York
+321,291,"$3,891.85",4/3/2025 18:01,Clothing,PayPal,Online
+322,367,"$2,304.80",5/29/2025 7:11,Beauty,PayPal,Chicago
+323,467,"$4,684.65",4/30/2025 13:40,Home,Debit Card,New York
+324,788,"$2,783.01",4/12/2025 5:54,Electronics,Debit Card,Chicago
+325,439,"$2,407.88",6/9/2025 6:34,Beauty,Debit Card,Los Angeles
+326,693,"$2,211.37",3/24/2025 2:00,Home,Debit Card,Chicago
+328,269,"$1,087.30",4/11/2025 22:35,Home,Debit Card,Online
+329,944,"$2,299.69",2/10/2025 20:18,Clothing,Debit Card,Miami
+330,866,"$1,983.68",2/5/2025 23:54,Beauty,PayPal,New York
+331,984,"$1,208.76",4/3/2025 11:46,Beauty,Credit Card,New York
+333,614,"$2,124.25",2/12/2025 13:36,Sports,PayPal,Miami
+334,532,"$2,370.22",3/26/2025 12:32,Electronics,Debit Card,Los Angeles
+335,783,"$1,308.36",5/10/2025 20:36,Beauty,Cash,Los Angeles
+336,237,"$2,323.98",4/4/2025 21:50,Beauty,PayPal,Online
+338,174,"$1,768.12",1/24/2025 21:24,Beauty,Cash,New York
+339,161,"$3,348.88",5/15/2025 1:36,Home,Cash,Chicago
+340,307,"$1,008.48",5/13/2025 17:02,Home,Credit Card,Los Angeles
+341,724,"$4,546.42",6/8/2025 19:05,Beauty,PayPal,Online
+342,988,"$1,055.22",5/7/2025 5:06,Clothing,PayPal,Miami
+343,989,"$3,791.70",5/28/2025 0:09,Clothing,PayPal,Chicago
+345,426,"$1,292.85",4/23/2025 16:28,Electronics,PayPal,Miami
+346,117,"$1,524.04",1/4/2025 21:56,Sports,Cash,Online
+347,120,"$3,656.06",3/14/2025 4:00,Sports,Debit Card,Chicago
+348,135,"$1,523.16",3/1/2025 23:36,Home,PayPal,Los Angeles
+350,336,"$2,897.65",2/19/2025 5:42,Home,PayPal,Chicago
+352,992,"$3,691.14",2/12/2025 8:40,Sports,Debit Card,New York
+354,916,"$2,087.36",5/31/2025 7:24,Home,Cash,Miami
+355,44,"$2,607.50",5/27/2025 4:37,Clothing,Credit Card,Chicago
+356,822,"$3,504.99",6/12/2025 14:33,Sports,Credit Card,Miami
+359,411,"$2,194.22",2/15/2025 20:19,Electronics,Cash,Miami
+360,375,"$3,910.71",6/15/2025 7:31,Clothing,Cash,Los Angeles
+361,215,"$1,785.49",2/20/2025 3:44,Home,Cash,New York
+362,511,"$4,310.65",3/25/2025 17:45,Clothing,Credit Card,New York
+363,524,"$3,384.85",2/12/2025 5:35,Home,PayPal,Online
+365,885,"$3,662.34",3/14/2025 13:23,Electronics,Cash,Chicago
+366,821,"$2,267.87",1/20/2025 11:55,Electronics,Debit Card,Miami
+367,175,"$3,546.10",5/7/2025 10:43,Beauty,Debit Card,Online
+368,226,"$2,300.10",5/8/2025 20:50,Home,Debit Card,Miami
+369,345,"$4,127.88",1/22/2025 15:51,Electronics,PayPal,Online
+370,415,"$3,583.85",3/28/2025 6:06,Beauty,Cash,Chicago
+372,214,"$1,835.58",1/6/2025 6:03,Home,Cash,New York
+373,486,"$4,866.21",2/10/2025 8:37,Home,Debit Card,Los Angeles
+374,17,"$2,445.23",2/18/2025 22:07,Home,Credit Card,Chicago
+375,790,"$2,546.82",5/7/2025 2:37,Home,Debit Card,New York
+377,866,"$3,010.19",5/31/2025 8:35,Electronics,Debit Card,Los Angeles
+379,550,"$3,174.61",1/31/2025 18:53,Electronics,PayPal,Miami
+380,800,"$2,010.50",4/20/2025 7:44,Clothing,Debit Card,Miami
+381,148,"$2,443.12",2/23/2025 5:00,Electronics,PayPal,Miami
+382,758,"$3,070.09",6/11/2025 19:54,Clothing,Credit Card,Miami
+384,445,"$4,974.03",3/20/2025 13:26,Home,PayPal,Online
+385,609,"$4,141.97",4/15/2025 18:11,Home,Credit Card,Miami
+386,169,"$1,052.66",5/2/2025 16:08,Clothing,Cash,Online
+387,806,"$3,824.79",6/8/2025 14:57,Sports,Cash,New York
+388,849,"$3,642.55",1/2/2025 23:14,Electronics,Debit Card,New York
+389,469,"$2,525.02",2/27/2025 20:08,Beauty,Credit Card,Miami
+390,257,"$4,078.63",2/12/2025 23:27,Home,Debit Card,Miami
+391,568,"$2,906.70",4/6/2025 8:55,Electronics,PayPal,New York
+392,432,"$4,192.08",5/19/2025 12:09,Clothing,Credit Card,Los Angeles
+394,183,"$1,476.90",1/11/2025 18:56,Home,Cash,Online
+395,393,"$3,344.85",3/27/2025 17:39,Home,Cash,Chicago
+396,225,"$3,340.79",5/12/2025 23:17,Clothing,PayPal,Online
+398,705,"$4,429.17",2/19/2025 13:06,Clothing,Cash,New York
+399,102,"$4,151.84",5/21/2025 7:52,Beauty,Credit Card,New York
+400,908,"$2,477.60",4/3/2025 2:00,Sports,Credit Card,Los Angeles
+401,314,"$4,978.25",3/9/2025 7:43,Electronics,PayPal,Los Angeles
+402,191,"$4,652.75",2/12/2025 3:07,Sports,Credit Card,Los Angeles
+403,481,"$1,276.51",5/18/2025 8:41,Electronics,Cash,Miami
+404,84,"$2,763.52",1/16/2025 9:07,Electronics,PayPal,Online
+405,692,"$3,486.07",4/3/2025 11:23,Clothing,PayPal,Miami
+406,212,"$4,022.70",6/10/2025 20:02,Electronics,PayPal,Online
+408,358,"$1,618.15",4/18/2025 14:07,Electronics,PayPal,New York
+409,985,"$1,227.80",1/20/2025 3:53,Home,Credit Card,New York
+412,463,"$3,639.71",5/15/2025 22:57,Beauty,Cash,Miami
+414,264,"$4,374.65",2/18/2025 12:11,Electronics,Cash,Los Angeles
+415,762,"$2,099.51",5/28/2025 23:08,Clothing,PayPal,Online
+416,542,"$2,049.09",4/15/2025 11:25,Home,PayPal,Online
+417,488,"$2,354.00",1/7/2025 11:41,Sports,PayPal,Los Angeles
+418,150,"$2,459.28",3/15/2025 5:30,Electronics,PayPal,Los Angeles
+419,977,"$2,731.75",4/10/2025 1:12,Sports,PayPal,Chicago
+420,458,"$3,139.12",6/16/2025 11:49,Sports,Credit Card,New York
+422,799,"$1,484.84",5/4/2025 13:17,Home,Cash,Chicago
+423,586,"$1,753.52",3/18/2025 1:56,Beauty,Cash,Miami
+425,645,"$4,282.09",2/8/2025 18:01,Home,Credit Card,Miami
+427,4,"$1,787.09",4/28/2025 4:34,Beauty,PayPal,Chicago
+428,814,"$4,523.09",4/11/2025 23:48,Electronics,Debit Card,Chicago
+429,383,"$1,377.09",5/14/2025 13:53,Sports,PayPal,Chicago
+430,945,"$2,745.19",4/18/2025 6:51,Beauty,Credit Card,Chicago
+431,427,"$4,397.73",5/16/2025 23:54,Home,Debit Card,Miami
+432,744,"$3,289.10",4/24/2025 12:33,Home,Credit Card,Los Angeles
+433,389,"$3,871.63",2/7/2025 6:06,Clothing,Cash,Los Angeles
+434,501,"$2,621.80",3/10/2025 1:20,Electronics,Debit Card,Online
+435,619,"$3,789.70",5/8/2025 1:49,Beauty,Credit Card,Los Angeles
+436,856,"$4,646.12",1/20/2025 19:18,Clothing,Debit Card,Los Angeles
+437,425,"$2,158.60",4/15/2025 6:12,Electronics,Debit Card,Online
+439,407,"$3,691.93",1/2/2025 4:53,Electronics,PayPal,New York
+441,623,"$1,815.83",3/19/2025 3:24,Electronics,Debit Card,Miami
+442,23,"$1,908.49",4/21/2025 1:10,Beauty,Debit Card,Online
+445,336,"$1,555.81",4/13/2025 3:00,Home,PayPal,Online
+446,731,"$3,488.33",5/9/2025 17:11,Home,Debit Card,Online
+447,656,"$4,017.06",2/3/2025 15:53,Sports,PayPal,Chicago
+451,184,"$1,106.44",2/20/2025 15:50,Beauty,Credit Card,Chicago
+452,5,"$1,983.52",2/3/2025 14:59,Sports,PayPal,Online
+453,622,"$2,566.29",2/19/2025 5:27,Sports,PayPal,Chicago
+454,253,"$4,305.83",5/27/2025 14:21,Clothing,Credit Card,Online
+455,46,"$2,156.67",3/27/2025 17:16,Beauty,Credit Card,Los Angeles
+456,34,"$4,270.26",4/21/2025 20:03,Sports,PayPal,Chicago
+458,301,"$2,973.48",5/1/2025 20:09,Beauty,Credit Card,Online
+459,518,"$4,348.74",3/25/2025 1:02,Beauty,PayPal,Chicago
+460,389,"$1,488.34",5/19/2025 7:32,Home,Credit Card,Chicago
+461,335,"$3,430.42",3/28/2025 19:23,Beauty,Debit Card,New York
+463,48,"$1,537.01",6/17/2025 3:01,Clothing,Debit Card,New York
+464,672,"$1,115.85",4/6/2025 10:24,Electronics,Cash,Chicago
+465,346,"$3,674.55",5/16/2025 3:32,Clothing,PayPal,Miami
+466,418,"$1,613.21",3/17/2025 10:27,Clothing,Cash,Los Angeles
+468,202,"$3,683.34",1/12/2025 7:17,Sports,Debit Card,Online
+469,32,"$4,664.71",5/6/2025 10:40,Sports,PayPal,Los Angeles
+470,7,"$3,241.66",5/15/2025 15:17,Electronics,PayPal,Los Angeles
+472,746,"$4,261.22",6/11/2025 4:05,Beauty,PayPal,Online
+473,981,"$3,032.91",3/17/2025 1:01,Clothing,Cash,Online
+474,215,"$1,730.82",6/15/2025 11:38,Beauty,Credit Card,New York
+475,636,"$3,628.20",3/8/2025 14:52,Beauty,PayPal,Online
+476,65,"$2,963.79",3/29/2025 21:13,Home,PayPal,New York
+477,711,"$4,736.24",3/9/2025 19:49,Beauty,Cash,Chicago
+478,343,"$4,415.48",3/21/2025 11:01,Beauty,Cash,Chicago
+479,452,"$4,541.67",4/30/2025 9:35,Electronics,Debit Card,Online
+480,520,"$3,120.78",1/7/2025 18:59,Clothing,Cash,Los Angeles
+481,575,"$2,698.86",3/24/2025 5:04,Beauty,Cash,Miami
+482,642,"$2,826.89",4/30/2025 11:18,Beauty,Cash,Chicago
+483,269,"$1,301.18",5/10/2025 16:46,Electronics,PayPal,Miami
+484,393,"$1,334.54",5/25/2025 11:40,Electronics,Debit Card,New York
+485,359,"$2,525.69",3/2/2025 3:29,Beauty,Credit Card,New York
+486,95,"$2,885.89",3/30/2025 16:14,Clothing,Cash,Los Angeles
+487,234,"$1,095.54",6/6/2025 22:01,Clothing,Debit Card,Miami
+489,462,"$3,433.60",3/4/2025 13:25,Beauty,Debit Card,New York
+491,325,"$1,024.59",3/19/2025 12:00,Beauty,Debit Card,Online
+494,507,"$2,939.60",5/30/2025 13:45,Clothing,Cash,Miami
+495,35,"$2,947.59",4/25/2025 16:52,Clothing,Credit Card,New York
+496,258,"$4,220.45",1/21/2025 19:32,Clothing,Credit Card,Chicago
+497,91,"$3,009.06",1/29/2025 11:28,Electronics,PayPal,Los Angeles
+501,793,"$1,511.92",5/2/2025 20:33,Clothing,Credit Card,Chicago
+502,680,"$2,307.30",4/7/2025 5:19,Beauty,Credit Card,New York
+503,810,"$2,727.34",5/31/2025 12:10,Home,Debit Card,New York
+504,15,"$3,194.72",6/1/2025 14:13,Beauty,Debit Card,Online
+505,910,"$3,186.76",3/2/2025 17:45,Sports,Cash,Miami
+506,671,"$2,505.52",4/18/2025 15:57,Clothing,PayPal,Miami
+508,93,"$2,114.68",2/21/2025 20:59,Home,Credit Card,New York
+509,82,"$1,592.90",4/22/2025 20:49,Sports,Debit Card,Chicago
+510,255,"$1,935.50",2/28/2025 18:01,Electronics,Credit Card,Miami
+511,364,"$3,905.20",1/24/2025 11:07,Electronics,PayPal,Los Angeles
+513,759,"$1,127.03",3/20/2025 18:15,Sports,PayPal,Los Angeles
+514,708,"$4,129.48",1/27/2025 2:13,Beauty,Debit Card,Online
+515,560,"$1,873.63",4/24/2025 2:11,Electronics,Cash,Online
+516,585,"$1,106.26",1/5/2025 10:14,Home,Debit Card,Miami
+518,834,"$4,163.64",5/10/2025 15:08,Home,PayPal,Online
+519,886,"$2,129.02",3/3/2025 6:41,Clothing,Debit Card,Online
+522,34,"$1,037.02",4/13/2025 1:06,Electronics,Credit Card,Chicago
+524,622,"$3,498.67",3/26/2025 23:06,Clothing,Credit Card,Miami
+525,401,"$3,075.67",5/16/2025 16:42,Beauty,PayPal,New York
+526,568,"$4,903.02",5/27/2025 18:12,Beauty,PayPal,Chicago
+527,261,"$2,728.64",4/24/2025 8:50,Clothing,Cash,Chicago
+528,870,"$4,122.15",1/4/2025 18:29,Sports,PayPal,Chicago
+529,92,"$1,300.84",5/11/2025 11:53,Beauty,Credit Card,Chicago
+533,725,"$2,766.82",6/14/2025 19:08,Clothing,Credit Card,Los Angeles
+535,900,"$3,204.92",2/11/2025 17:13,Electronics,Credit Card,Miami
+536,216,"$3,279.26",1/2/2025 20:44,Clothing,Cash,Online
+537,774,"$3,126.16",5/9/2025 3:51,Sports,PayPal,Online
+539,488,"$4,427.08",3/24/2025 12:27,Electronics,Debit Card,Chicago
+540,920,"$2,957.81",3/13/2025 4:35,Clothing,PayPal,Miami
+541,202,"$2,542.15",5/23/2025 18:07,Clothing,Debit Card,Online
+542,581,"$3,681.02",4/28/2025 2:59,Beauty,PayPal,Miami
+543,459,"$3,335.68",4/18/2025 22:53,Beauty,Debit Card,Miami
+544,876,"$1,451.65",3/10/2025 4:02,Home,Credit Card,Online
+545,760,"$4,508.24",5/8/2025 18:54,Electronics,Credit Card,Los Angeles
+546,19,"$1,600.94",3/24/2025 15:39,Beauty,Debit Card,Online
+547,164,"$3,634.63",6/13/2025 19:02,Clothing,Debit Card,Los Angeles
+548,10,"$2,954.52",5/21/2025 22:54,Sports,Debit Card,Miami
+549,907,"$1,484.80",3/4/2025 17:05,Clothing,Cash,Los Angeles
+550,939,"$2,422.13",5/26/2025 3:43,Beauty,Credit Card,Chicago
+551,385,"$1,711.89",6/4/2025 10:02,Home,Cash,Los Angeles
+553,879,"$4,872.19",3/17/2025 0:38,Home,PayPal,Los Angeles
+554,858,"$4,085.26",1/19/2025 11:06,Electronics,Cash,Miami
+555,716,"$1,316.16",5/7/2025 1:39,Sports,Cash,Miami
+556,830,"$4,049.01",6/1/2025 14:13,Clothing,PayPal,Miami
+557,970,"$2,871.83",2/23/2025 21:59,Clothing,Credit Card,Los Angeles
+558,426,"$1,041.41",3/19/2025 11:01,Home,Credit Card,Los Angeles
+559,786,"$3,638.43",1/11/2025 17:54,Clothing,Cash,Online
+561,64,"$1,337.28",3/18/2025 18:51,Beauty,Credit Card,Online
+562,884,"$1,594.54",5/19/2025 18:50,Clothing,Cash,New York
+563,303,"$2,682.71",3/24/2025 17:55,Clothing,Credit Card,Online
+564,534,"$3,123.01",2/26/2025 2:59,Sports,Credit Card,Miami
+566,563,"$2,527.89",1/7/2025 10:04,Beauty,Debit Card,Online
+567,452,"$4,124.38",2/28/2025 1:25,Sports,PayPal,New York
+568,163,"$1,033.56",6/3/2025 10:57,Clothing,Cash,Online
+569,112,"$1,382.18",1/1/2025 15:07,Beauty,Credit Card,Online
+570,18,"$2,929.47",3/18/2025 13:34,Beauty,Credit Card,Miami
+571,576,"$4,347.46",5/18/2025 0:46,Electronics,Credit Card,Miami
+572,852,"$4,995.63",3/17/2025 11:37,Sports,Credit Card,Chicago
+573,514,"$1,679.76",6/14/2025 6:06,Sports,PayPal,Online
+574,354,"$3,244.66",2/26/2025 22:43,Home,PayPal,Chicago
+575,83,"$1,024.05",5/18/2025 4:14,Clothing,PayPal,New York
+576,347,"$3,003.16",4/17/2025 2:25,Home,PayPal,Chicago
+577,477,"$3,909.54",5/7/2025 18:14,Sports,Debit Card,Miami
+578,866,"$3,707.71",5/16/2025 18:30,Clothing,Credit Card,Online
+579,673,"$1,446.25",3/25/2025 20:23,Clothing,Cash,Online
+580,878,"$2,987.07",6/6/2025 1:53,Beauty,Debit Card,Chicago
+581,126,"$2,970.34",5/18/2025 6:06,Home,Credit Card,Chicago
+583,541,"$1,843.44",3/9/2025 9:07,Sports,Debit Card,Los Angeles
+584,147,"$3,063.81",5/31/2025 4:39,Electronics,Debit Card,Los Angeles
+585,331,"$2,475.60",3/8/2025 23:52,Home,PayPal,Chicago
+587,986,"$3,519.14",4/9/2025 11:51,Clothing,Credit Card,Los Angeles
+588,192,"$4,069.52",2/10/2025 3:39,Clothing,Debit Card,Chicago
+589,403,"$1,669.56",1/27/2025 9:08,Electronics,Credit Card,Miami
+590,587,"$2,353.34",3/29/2025 22:08,Clothing,Cash,New York
+594,882,"$3,247.85",4/19/2025 23:44,Electronics,Cash,New York
+595,756,"$4,093.96",1/7/2025 13:35,Home,Debit Card,New York
+597,339,"$4,684.87",4/1/2025 0:19,Electronics,Cash,New York
+598,769,"$3,890.83",4/30/2025 15:28,Home,Credit Card,Miami
+599,106,"$2,605.77",1/1/2025 5:37,Sports,Debit Card,New York
+601,953,"$4,053.10",5/20/2025 2:44,Electronics,Cash,Online
+602,412,"$4,867.64",4/28/2025 8:46,Home,Cash,Miami
+603,403,"$1,085.48",2/4/2025 15:15,Clothing,Credit Card,New York
+605,659,"$4,859.14",6/12/2025 2:53,Home,Credit Card,Miami
+606,199,"$2,778.46",6/14/2025 7:21,Electronics,Credit Card,Chicago
+608,559,"$2,093.69",2/16/2025 6:13,Clothing,Credit Card,New York
+609,616,"$2,041.02",3/31/2025 21:19,Home,Debit Card,New York
+610,263,"$3,435.23",4/7/2025 1:19,Home,Cash,New York
+613,781,"$4,863.58",1/19/2025 10:53,Beauty,Credit Card,Online
+614,128,"$3,002.86",3/20/2025 14:18,Beauty,Cash,New York
+615,456,"$3,742.10",3/4/2025 2:42,Electronics,PayPal,Miami
+616,864,"$1,085.68",2/4/2025 6:07,Sports,Cash,Online
+618,357,"$1,643.13",3/4/2025 4:22,Beauty,Credit Card,Chicago
+619,786,"$3,866.70",3/19/2025 12:02,Sports,PayPal,Online
+621,638,"$4,000.22",4/11/2025 0:03,Clothing,Debit Card,Online
+623,206,"$3,590.37",2/6/2025 1:21,Home,PayPal,Chicago
+624,429,"$1,064.15",3/8/2025 2:43,Home,Credit Card,Chicago
+625,839,"$4,145.20",4/5/2025 5:22,Electronics,Cash,Miami
+626,729,"$4,460.94",2/24/2025 2:05,Clothing,PayPal,New York
+627,773,"$2,121.87",1/2/2025 7:29,Home,Credit Card,Online
+628,446,"$1,550.58",2/12/2025 3:18,Clothing,Debit Card,New York
+629,751,"$3,658.64",5/29/2025 5:05,Clothing,PayPal,Los Angeles
+631,269,"$4,477.96",1/7/2025 3:26,Electronics,Debit Card,Los Angeles
+633,181,"$1,969.55",3/31/2025 15:16,Sports,PayPal,Online
+634,381,"$1,847.00",3/16/2025 21:40,Clothing,Debit Card,Chicago
+636,863,"$3,908.89",4/12/2025 3:40,Electronics,Debit Card,Chicago
+637,370,"$3,956.12",5/30/2025 17:14,Beauty,Cash,Chicago
+639,155,"$1,328.84",3/11/2025 22:19,Home,Credit Card,Online
+640,172,"$1,461.36",5/20/2025 17:15,Home,Credit Card,Miami
+642,262,"$4,324.39",2/1/2025 23:47,Clothing,Cash,Online
+643,349,"$2,759.95",2/2/2025 0:47,Sports,Cash,New York
+644,283,"$3,277.25",4/11/2025 0:41,Home,Cash,Chicago
+648,301,"$2,967.35",2/17/2025 1:18,Beauty,Credit Card,Chicago
+650,928,"$3,717.71",2/24/2025 5:04,Sports,Debit Card,Miami
+652,753,"$1,624.31",3/24/2025 22:31,Electronics,PayPal,Los Angeles
+656,85,"$4,811.74",5/29/2025 18:52,Electronics,Debit Card,Chicago
+657,848,"$2,906.18",3/1/2025 19:30,Clothing,Debit Card,Los Angeles
+658,930,"$4,725.54",1/7/2025 15:41,Beauty,Credit Card,Miami
+659,983,"$4,927.28",5/19/2025 0:59,Sports,PayPal,Los Angeles
+662,713,"$4,384.60",1/21/2025 8:51,Electronics,PayPal,Los Angeles
+663,430,"$2,145.28",1/12/2025 18:37,Electronics,PayPal,New York
+664,914,"$2,994.89",1/4/2025 4:26,Home,PayPal,Miami
+665,894,"$3,362.87",4/3/2025 19:26,Sports,Cash,Chicago
+666,211,"$2,927.30",2/23/2025 4:59,Clothing,Cash,Chicago
+669,178,"$3,787.45",4/25/2025 10:31,Electronics,Debit Card,Online
+670,316,"$4,799.26",3/2/2025 21:03,Beauty,Credit Card,Miami
+672,556,"$4,535.65",4/6/2025 8:03,Clothing,Credit Card,Miami
+673,905,"$3,366.52",4/29/2025 2:13,Sports,Credit Card,Online
+674,131,"$1,468.74",5/12/2025 3:59,Clothing,Cash,Chicago
+675,675,"$1,088.11",4/30/2025 13:25,Home,Cash,Los Angeles
+676,504,"$1,039.99",4/13/2025 12:18,Electronics,PayPal,Online
+677,839,"$3,406.17",3/30/2025 7:15,Sports,Debit Card,New York
+678,486,"$2,972.65",1/3/2025 2:10,Sports,PayPal,Chicago
+679,806,"$4,988.06",3/27/2025 22:51,Home,Debit Card,Online
+680,191,"$2,029.14",2/11/2025 12:28,Beauty,Credit Card,Los Angeles
+681,17,"$4,752.12",5/31/2025 10:50,Sports,Cash,Miami
+682,919,"$3,375.78",6/15/2025 14:52,Electronics,Credit Card,New York
+683,45,"$4,402.65",4/3/2025 7:27,Clothing,Debit Card,New York
+684,451,"$4,278.58",3/24/2025 8:32,Home,Debit Card,Chicago
+685,195,"$4,799.04",1/24/2025 11:23,Electronics,Debit Card,Online
+686,924,"$4,929.15",1/2/2025 14:27,Beauty,Credit Card,New York
+688,168,"$1,578.94",4/29/2025 9:08,Electronics,Credit Card,Los Angeles
+689,986,"$1,219.88",4/18/2025 10:31,Electronics,Debit Card,Miami
+690,925,"$1,727.49",5/27/2025 0:30,Clothing,PayPal,Los Angeles
+691,579,"$4,035.73",1/10/2025 18:58,Sports,Credit Card,New York
+692,338,"$4,166.24",3/7/2025 18:07,Electronics,Debit Card,Miami
+693,714,"$3,751.06",6/15/2025 7:01,Clothing,PayPal,New York
+694,605,"$3,791.69",3/7/2025 14:16,Electronics,Debit Card,New York
+695,154,"$2,468.45",1/21/2025 0:56,Clothing,Credit Card,Los Angeles
+696,322,"$3,772.78",4/27/2025 5:27,Sports,Credit Card,Los Angeles
+697,982,"$4,707.60",5/9/2025 9:00,Sports,Debit Card,Los Angeles
+698,329,"$3,596.56",4/17/2025 19:14,Home,Credit Card,New York
+699,515,"$4,306.89",3/31/2025 8:01,Beauty,PayPal,Online
+700,259,"$3,566.26",1/11/2025 3:31,Clothing,Cash,Miami
+701,379,"$1,854.24",2/11/2025 16:00,Sports,Debit Card,Miami
+702,304,"$3,887.25",5/29/2025 15:28,Sports,Cash,Chicago
+703,741,"$2,477.55",1/25/2025 10:25,Home,Debit Card,New York
+704,866,"$4,998.17",1/21/2025 19:15,Sports,PayPal,New York
+706,421,"$2,761.59",3/1/2025 9:21,Beauty,Cash,Chicago
+707,613,"$2,047.22",4/28/2025 9:48,Beauty,PayPal,Chicago
+710,787,"$4,686.67",1/6/2025 22:43,Beauty,PayPal,Online
+711,429,"$2,486.30",3/29/2025 4:01,Beauty,Credit Card,Online
+712,106,"$1,122.41",4/20/2025 15:12,Clothing,Cash,Chicago
+713,704,"$2,205.29",3/20/2025 19:18,Beauty,Debit Card,Miami
+714,137,"$3,087.44",2/20/2025 5:49,Beauty,Cash,Los Angeles
+715,347,"$1,814.28",6/1/2025 18:05,Home,Cash,Chicago
+716,504,"$3,225.42",5/23/2025 16:49,Clothing,Cash,Miami
+717,24,"$4,292.90",3/18/2025 8:24,Home,Cash,Los Angeles
+718,244,"$3,496.40",2/18/2025 3:03,Home,Cash,Chicago
+719,663,"$3,130.70",4/8/2025 9:13,Beauty,Credit Card,Chicago
+720,488,"$2,432.17",1/21/2025 20:14,Beauty,Cash,Online
+722,516,"$2,695.54",6/3/2025 19:39,Beauty,Debit Card,Online
+723,903,"$2,478.66",4/7/2025 13:37,Beauty,Debit Card,Chicago
+724,940,"$1,264.66",2/8/2025 19:36,Electronics,PayPal,New York
+725,986,"$2,445.65",3/9/2025 6:13,Clothing,Credit Card,Miami
+726,909,"$4,641.79",3/5/2025 12:12,Beauty,Cash,Los Angeles
+727,616,"$2,976.51",5/18/2025 5:32,Beauty,PayPal,Miami
+729,476,"$4,948.70",4/1/2025 11:53,Beauty,PayPal,Los Angeles
+730,723,"$3,842.83",1/15/2025 9:59,Electronics,Cash,New York
+731,628,"$4,542.16",1/17/2025 11:34,Home,Credit Card,Online
+732,582,"$2,259.09",3/29/2025 11:19,Home,Credit Card,Chicago
+733,497,"$4,879.74",1/16/2025 6:37,Electronics,Cash,Online
+734,988,"$1,130.57",5/18/2025 6:15,Clothing,Credit Card,Online
+735,422,"$3,497.63",1/5/2025 21:15,Clothing,PayPal,Chicago
+736,685,"$1,158.37",4/8/2025 21:16,Clothing,Cash,Los Angeles
+737,684,"$2,723.63",1/12/2025 17:32,Clothing,Credit Card,Chicago
+738,756,"$4,466.78",4/1/2025 20:33,Sports,Debit Card,Online
+739,918,"$2,252.86",6/8/2025 16:10,Clothing,Debit Card,Chicago
+741,921,"$2,018.07",6/6/2025 14:11,Sports,Cash,Miami
+742,334,"$1,288.90",1/21/2025 6:19,Home,Cash,Los Angeles
+745,427,"$3,196.15",2/24/2025 5:43,Clothing,Credit Card,New York
+746,140,"$2,495.65",3/19/2025 5:49,Clothing,Cash,Los Angeles
+747,550,"$3,553.60",4/1/2025 8:19,Home,Credit Card,New York
+748,256,"$3,735.84",2/26/2025 19:12,Clothing,Credit Card,Chicago
+749,338,"$3,852.72",4/21/2025 10:12,Clothing,Cash,Chicago
+750,789,"$3,356.68",5/12/2025 2:38,Electronics,Debit Card,Chicago
+753,27,"$3,558.59",4/25/2025 8:18,Electronics,PayPal,Miami
+754,638,"$3,857.12",3/17/2025 16:56,Home,Cash,Los Angeles
+755,519,"$2,480.56",1/16/2025 17:21,Sports,Debit Card,New York
+757,125,"$2,101.80",4/13/2025 6:26,Beauty,PayPal,Chicago
+759,508,"$2,922.08",4/16/2025 21:31,Home,Debit Card,Chicago
+760,917,"$2,129.31",3/16/2025 11:52,Home,PayPal,Los Angeles
+762,911,"$4,528.12",3/22/2025 17:09,Electronics,Debit Card,Chicago
+763,310,"$4,157.31",1/11/2025 20:01,Clothing,Debit Card,Chicago
+764,760,"$1,626.65",5/10/2025 2:35,Home,Debit Card,Los Angeles
+766,642,"$2,701.87",5/12/2025 0:11,Home,PayPal,New York
+768,277,"$3,465.21",1/19/2025 20:23,Clothing,Cash,Online
+769,687,"$2,975.30",5/5/2025 1:55,Beauty,Cash,Miami
+770,199,"$3,038.46",5/1/2025 0:19,Sports,PayPal,New York
+771,666,"$2,848.76",1/5/2025 7:05,Sports,Cash,Los Angeles
+772,410,"$3,895.36",1/25/2025 13:45,Sports,Debit Card,Online
+773,407,"$2,734.59",3/27/2025 2:50,Sports,Cash,Chicago
+775,742,"$3,237.67",4/12/2025 13:47,Home,Cash,New York
+776,770,"$1,951.12",5/29/2025 0:45,Sports,Debit Card,Chicago
+777,138,"$1,402.77",6/1/2025 0:30,Sports,PayPal,New York
+778,652,"$2,429.41",4/18/2025 22:45,Electronics,Debit Card,Chicago
+779,570,"$2,292.32",2/10/2025 16:43,Beauty,Credit Card,Chicago
+780,735,"$3,052.60",1/22/2025 4:52,Electronics,Cash,Miami
+781,231,"$4,289.58",3/14/2025 1:26,Home,Credit Card,New York
+782,358,"$4,977.87",4/8/2025 3:21,Clothing,Debit Card,New York
+784,612,"$4,594.53",6/11/2025 17:24,Home,Credit Card,New York
+785,152,"$3,001.62",5/17/2025 1:48,Electronics,PayPal,Miami
+786,405,"$1,794.95",2/6/2025 12:15,Clothing,Credit Card,Chicago
+787,767,"$3,990.78",5/9/2025 16:15,Sports,Credit Card,New York
+788,779,"$4,514.95",4/20/2025 22:47,Home,Cash,Online
+789,963,"$2,825.48",6/2/2025 5:01,Electronics,PayPal,Los Angeles
+791,922,"$2,286.56",1/26/2025 3:22,Sports,Cash,Miami
+792,939,"$4,409.04",2/22/2025 4:28,Sports,PayPal,Online
+793,496,"$2,000.34",4/26/2025 18:50,Electronics,PayPal,Miami
+794,978,"$4,072.62",5/27/2025 18:23,Home,Credit Card,Chicago
+796,173,"$2,937.74",5/24/2025 13:11,Beauty,Cash,Chicago
+797,336,"$1,084.71",1/30/2025 5:30,Home,Credit Card,New York
+798,236,"$4,593.87",4/9/2025 1:32,Electronics,Debit Card,Chicago
+800,638,"$3,688.46",2/21/2025 12:38,Sports,PayPal,Miami
+802,937,"$1,825.54",1/12/2025 10:40,Sports,PayPal,Online
+803,295,"$1,926.05",2/27/2025 12:16,Clothing,Debit Card,Chicago
+804,380,"$4,654.56",1/1/2025 22:43,Sports,Cash,Miami
+805,369,"$2,584.30",2/25/2025 18:05,Home,Cash,Los Angeles
+806,811,"$3,904.39",3/8/2025 9:41,Clothing,Debit Card,New York
+808,991,"$2,781.52",5/14/2025 7:30,Clothing,Credit Card,Los Angeles
+809,99,"$3,205.34",4/27/2025 4:54,Sports,PayPal,Los Angeles
+810,145,"$4,549.12",5/29/2025 5:20,Sports,Credit Card,Miami
+811,794,"$4,199.12",6/4/2025 18:31,Home,Cash,Miami
+812,397,"$4,087.64",2/24/2025 3:30,Clothing,Credit Card,Miami
+813,27,"$2,468.38",5/16/2025 4:49,Home,PayPal,Los Angeles
+814,928,"$2,653.98",2/17/2025 7:21,Electronics,Credit Card,Miami
+815,589,"$3,656.10",1/24/2025 8:06,Clothing,PayPal,Los Angeles
+817,797,"$2,042.13",4/23/2025 12:52,Beauty,Credit Card,Chicago
+818,768,"$4,442.21",2/21/2025 20:46,Home,Credit Card,New York
+819,619,"$3,816.74",3/20/2025 7:30,Home,Credit Card,Online
+821,158,"$1,300.79",3/16/2025 5:53,Sports,Cash,Miami
+826,813,"$2,034.22",1/19/2025 23:23,Beauty,PayPal,Chicago
+827,240,"$3,141.98",5/17/2025 18:45,Sports,Credit Card,Online
+828,879,"$1,693.57",1/3/2025 4:37,Sports,PayPal,New York
+829,245,"$1,562.36",2/5/2025 20:13,Beauty,Credit Card,Chicago
+830,574,"$4,411.81",4/4/2025 5:25,Home,Cash,Chicago
+832,586,"$4,904.92",4/26/2025 22:55,Home,PayPal,Los Angeles
+833,660,"$2,168.37",1/17/2025 23:09,Home,PayPal,Los Angeles
+835,683,"$2,600.42",5/20/2025 2:32,Sports,Credit Card,Chicago
+836,618,"$4,083.59",1/26/2025 23:20,Beauty,Debit Card,Los Angeles
+837,888,"$4,312.87",1/9/2025 16:06,Home,Cash,New York
+838,104,"$3,736.19",3/30/2025 16:29,Home,Debit Card,Miami
+839,853,"$1,081.65",6/16/2025 21:22,Home,Credit Card,Miami
+840,516,"$4,669.10",4/20/2025 22:06,Sports,Cash,Online
+841,331,"$3,937.72",1/28/2025 13:50,Home,Debit Card,Chicago
+842,833,"$4,786.84",1/28/2025 15:30,Electronics,PayPal,Chicago
+843,495,"$1,923.08",5/17/2025 7:54,Home,Debit Card,Online
+844,521,"$3,968.51",3/5/2025 23:56,Clothing,Debit Card,New York
+845,378,"$3,095.94",3/21/2025 2:06,Beauty,Debit Card,Chicago
+846,370,"$3,109.27",4/1/2025 12:50,Beauty,Debit Card,Chicago
+847,156,"$2,475.38",5/5/2025 10:24,Home,Debit Card,Los Angeles
+849,825,"$1,097.11",5/2/2025 5:07,Electronics,Cash,Miami
+851,554,"$3,721.88",4/14/2025 2:34,Beauty,Cash,Los Angeles
+853,743,"$2,597.74",4/19/2025 2:37,Sports,Cash,Chicago
+854,398,"$3,447.83",4/27/2025 20:25,Clothing,Debit Card,Miami
+855,67,"$4,168.82",1/24/2025 21:28,Sports,Credit Card,Online
+856,123,"$3,476.24",3/13/2025 3:48,Sports,Credit Card,New York
+858,846,"$2,038.07",4/10/2025 17:12,Electronics,Credit Card,Miami
+859,60,"$3,651.58",3/1/2025 11:49,Home,PayPal,Online
+860,82,"$2,913.33",5/9/2025 3:54,Clothing,PayPal,Los Angeles
+861,656,"$2,937.02",4/29/2025 15:17,Beauty,PayPal,Miami
+863,911,"$2,421.09",4/18/2025 8:01,Electronics,Debit Card,Chicago
+864,723,"$3,349.77",3/9/2025 14:58,Clothing,Cash,Los Angeles
+865,109,"$3,906.21",3/30/2025 6:54,Electronics,Credit Card,Los Angeles
+866,318,"$3,070.80",5/25/2025 13:36,Home,PayPal,New York
+868,26,"$3,378.58",4/27/2025 11:24,Clothing,Debit Card,Los Angeles
+869,89,"$3,235.69",1/6/2025 11:55,Beauty,PayPal,Los Angeles
+870,599,"$3,148.32",5/26/2025 1:04,Sports,Credit Card,Online
+873,230,"$3,671.14",2/7/2025 13:32,Sports,Credit Card,Chicago
+874,20,"$3,934.82",5/4/2025 10:16,Sports,Credit Card,Online
+875,856,"$2,666.01",5/8/2025 14:55,Beauty,PayPal,Los Angeles
+876,129,"$1,812.25",1/26/2025 13:26,Beauty,Credit Card,New York
+877,483,"$1,242.55",1/17/2025 3:11,Clothing,Debit Card,Chicago
+878,344,"$3,534.78",2/7/2025 0:30,Electronics,Credit Card,Los Angeles
+879,266,"$3,625.53",2/1/2025 22:35,Home,PayPal,Chicago
+880,681,"$4,624.07",5/18/2025 8:05,Clothing,Debit Card,Chicago
+882,952,"$4,608.54",6/1/2025 14:34,Sports,Cash,Online
+883,980,"$2,715.80",2/7/2025 16:27,Clothing,Cash,Online
+884,214,"$4,640.15",3/13/2025 8:28,Clothing,Credit Card,Los Angeles
+885,696,"$1,114.14",6/6/2025 5:21,Electronics,PayPal,Chicago
+887,216,"$3,982.83",5/30/2025 16:26,Beauty,Cash,Los Angeles
+888,420,"$3,424.18",2/14/2025 5:41,Sports,Debit Card,Chicago
+889,650,"$2,667.77",6/8/2025 12:01,Electronics,Debit Card,Los Angeles
+890,313,"$3,469.31",4/14/2025 8:11,Home,Cash,Online
+891,90,"$4,080.14",1/26/2025 17:53,Clothing,Cash,Miami
+892,777,"$1,712.90",5/25/2025 16:39,Electronics,Debit Card,Chicago
+894,559,"$4,291.48",2/12/2025 20:01,Electronics,Credit Card,Online
+895,966,"$4,382.49",2/16/2025 10:28,Clothing,PayPal,Chicago
+896,901,"$2,719.30",1/1/2025 22:40,Sports,Cash,Chicago
+897,875,"$4,883.98",6/14/2025 9:11,Beauty,Credit Card,New York
+898,401,"$2,638.12",6/6/2025 11:56,Clothing,Debit Card,Los Angeles
+899,418,"$4,549.18",1/4/2025 4:51,Home,Debit Card,Miami
+900,256,"$2,765.69",2/17/2025 8:36,Clothing,Cash,Los Angeles
+901,567,"$4,899.77",6/2/2025 15:25,Clothing,Credit Card,Miami
+902,117,"$1,657.23",2/15/2025 1:29,Sports,Cash,New York
+904,913,"$1,334.62",4/9/2025 5:51,Sports,Debit Card,Chicago
+906,848,"$3,313.64",5/29/2025 3:10,Sports,PayPal,New York
+907,244,"$3,311.41",6/6/2025 0:30,Sports,PayPal,New York
+909,450,"$4,579.04",1/9/2025 22:51,Clothing,Credit Card,Miami
+910,202,"$4,542.68",3/26/2025 4:05,Home,Cash,Online
+912,63,"$4,903.78",4/20/2025 15:29,Beauty,Debit Card,Chicago
+913,642,"$1,546.61",5/18/2025 22:07,Sports,PayPal,New York
+914,610,"$4,419.84",5/2/2025 9:57,Beauty,Cash,Online
+915,755,"$2,985.85",1/2/2025 6:39,Electronics,Cash,Chicago
+916,478,"$1,645.06",1/15/2025 7:38,Electronics,PayPal,New York
+917,169,"$1,569.36",4/4/2025 16:36,Electronics,PayPal,Los Angeles
+918,60,"$4,687.61",1/21/2025 4:28,Electronics,Cash,Miami
+919,489,"$1,557.84",5/27/2025 15:29,Home,Credit Card,New York
+920,333,"$3,877.70",5/1/2025 12:36,Electronics,Debit Card,New York
+922,230,"$2,641.59",3/1/2025 13:18,Sports,PayPal,New York
+923,947,"$1,090.62",1/9/2025 12:05,Home,Debit Card,Miami
+924,526,"$2,521.09",6/16/2025 2:32,Clothing,Cash,Miami
+927,488,"$2,250.71",4/27/2025 19:49,Home,Credit Card,Chicago
+928,302,"$4,334.04",5/22/2025 7:19,Beauty,Debit Card,Miami
+929,86,"$4,256.47",1/18/2025 23:25,Sports,Cash,Chicago
+930,70,"$2,156.22",5/5/2025 19:04,Beauty,Credit Card,Chicago
+931,349,"$3,267.70",4/16/2025 9:30,Beauty,Debit Card,Miami
+932,378,"$4,149.87",6/5/2025 17:32,Electronics,Credit Card,Online
+933,84,"$4,427.79",5/24/2025 2:38,Electronics,PayPal,New York
+934,788,"$3,242.93",4/23/2025 1:06,Beauty,PayPal,Chicago
+935,690,"$2,831.03",3/7/2025 20:52,Beauty,Debit Card,Los Angeles
+936,752,"$4,226.16",5/17/2025 22:40,Sports,Debit Card,Chicago
+937,483,"$2,544.59",3/16/2025 4:38,Beauty,Cash,Chicago
+939,796,"$1,259.34",2/24/2025 0:06,Clothing,Cash,New York
+941,481,"$2,384.11",1/7/2025 6:28,Electronics,PayPal,Chicago
+942,48,"$2,828.92",3/19/2025 6:18,Sports,PayPal,Online
+943,790,"$4,403.46",6/13/2025 5:25,Electronics,Debit Card,New York
+944,210,"$3,463.49",2/4/2025 20:33,Electronics,PayPal,New York
+946,30,"$1,252.53",6/1/2025 10:04,Home,Cash,Miami
+947,208,"$2,226.28",3/7/2025 3:05,Beauty,Cash,Los Angeles
+952,825,"$1,485.02",6/5/2025 2:49,Sports,Debit Card,Online
+953,174,"$4,405.23",1/27/2025 20:17,Electronics,Debit Card,Miami
+954,66,"$3,953.30",1/17/2025 10:46,Home,Debit Card,Online
+955,229,"$4,694.35",4/10/2025 23:33,Sports,Cash,Miami
+956,785,"$2,130.25",5/13/2025 9:55,Electronics,Debit Card,Chicago
+957,120,"$1,538.84",5/28/2025 22:50,Home,Debit Card,New York
+958,934,"$3,987.40",4/8/2025 9:17,Home,Cash,Los Angeles
+959,798,"$2,359.39",1/31/2025 19:06,Home,Credit Card,Los Angeles
+960,473,"$2,571.55",2/10/2025 23:20,Electronics,Cash,Los Angeles
+962,274,"$2,238.32",6/5/2025 12:16,Beauty,Credit Card,New York
+963,808,"$2,829.24",2/20/2025 15:02,Home,Debit Card,Los Angeles
+964,623,"$3,667.92",4/5/2025 14:10,Clothing,Credit Card,Los Angeles
+965,514,"$2,633.39",1/26/2025 2:27,Clothing,Cash,Online
+966,823,"$2,870.19",3/19/2025 2:14,Clothing,PayPal,Miami
+968,238,"$1,223.14",1/7/2025 8:55,Beauty,Debit Card,Los Angeles
+969,266,"$4,238.05",2/5/2025 18:42,Electronics,Debit Card,Chicago
+970,387,"$2,243.19",3/31/2025 23:10,Sports,Debit Card,Chicago
+971,648,"$2,296.35",6/5/2025 3:43,Home,Credit Card,New York
+972,532,"$4,333.14",6/3/2025 3:09,Electronics,Cash,Online
+974,670,"$3,020.45",4/19/2025 12:40,Beauty,Cash,New York
+975,831,"$3,415.38",2/21/2025 23:29,Home,PayPal,New York
+976,975,"$2,640.59",5/21/2025 2:01,Electronics,Cash,Los Angeles
+977,431,"$4,032.94",5/21/2025 1:12,Beauty,Debit Card,Online
+979,556,"$2,130.70",3/29/2025 18:26,Clothing,PayPal,New York
+980,527,"$4,424.47",3/20/2025 6:54,Sports,Credit Card,Online
+981,239,"$3,867.26",2/25/2025 23:37,Beauty,Debit Card,Online
+982,563,"$3,935.86",1/24/2025 2:35,Sports,Debit Card,New York
+984,271,"$4,213.12",1/6/2025 19:50,Sports,Cash,Online
+985,881,"$1,993.41",4/5/2025 18:53,Home,Debit Card,Online
+988,667,"$2,815.32",6/15/2025 20:57,Beauty,Cash,Los Angeles
+990,780,"$1,050.33",4/20/2025 20:55,Sports,Credit Card,Chicago
+991,162,"$3,055.00",4/30/2025 22:46,Clothing,Debit Card,Los Angeles
+993,845,"$2,379.23",5/5/2025 5:34,Clothing,Credit Card,Online
+994,443,"$4,232.53",2/28/2025 4:00,Electronics,Debit Card,Chicago
+995,927,"$1,368.17",2/8/2025 21:53,Clothing,Cash,Los Angeles
+997,235,"$2,125.18",6/9/2025 12:37,Electronics,PayPal,Chicago
+998,669,"$3,069.08",4/1/2025 19:59,Home,PayPal,Los Angeles
+999,931,"$2,262.75",6/8/2025 1:36,Clothing,Debit Card,Online
+1000,925,"$4,141.44",5/24/2025 13:39,Electronics,PayPal,Online
