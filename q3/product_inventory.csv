@@ -1,0 +1,101 @@
+product_id,product_name,price,stock_quantity
+1,  Laptop  ,499.999,25
+2,Smartphone,299.5,50
+3,,150,10
+4,headphones,29.99,100
+5,  tablet  ,199,30
+6,Smart Watch,249.95,20
+7,USB Cable,9.99,200
+8,Mouse,15.5,75
+9,keyboard,45,60
+10,,100,-15
+11,Monitor,199.99,40
+12,Printer,89.99,25
+13,  speaker  ,59.95,80
+14,Router,79.99,45
+15,Hard Drive,-120,35
+16,SSD Drive,89.5,50
+17,Webcam,39.99,90
+18,microphone,69.943,30
+19,,50,20
+20,Charger,19.99,150
+21,  laptop stand  ,25,70
+22,Mouse Pad,5.99,200
+23,HDMI Cable,12.99,100
+24,Earphones,14.95,120
+25,Power Bank,29.99,60
+26,,80.123,25
+27,Bluetooth Speaker,49.99,55
+28,Smart TV,399,15
+29,Game Controller,59.99,40
+30,VR Headset,299.99,10
+31,  camera  ,499,20
+32,Tripod,29.95,50
+33,Memory Card,19.99,80
+34,Card Reader,9.5,100
+35,,70,30
+36,External Battery,39.99,60
+37,USB Hub,14.99,90
+38,  docking station  ,99.99,25
+39,Projector,299,15
+40,Screen Protector,7.99,150
+41,Phone Case,12.99,200
+42,,60,40
+43,Laptop Bag,29.99,70
+44,Wireless Mouse,19.95,80
+45,  gaming keyboard  ,79.99,30
+46,Monitor Stand,24.99,50
+47,USB Flash Drive,15,100
+48,,90,20
+49,Smart Bulb,19.99,60
+50,Smart Plug,14.99,80
+51,  wifi extender  ,39.99,40
+52,Network Switch,49.5,30
+53,Tablet Case,17.99,90
+54,Stylus Pen,29.99,70
+55,,110,15
+56,Portable Speaker,34.99,50
+57,  fitness tracker  ,79.99,40
+58,Drone,199,10
+59,Action Camera,149.99,20
+60,Car Charger,12.99,100
+61,,55,25
+62,Wireless Charger,24.99,80
+63,Laptop Cooler,19.99,60
+64,  gaming mouse  ,39.99,50
+65,HD Webcam,49.99,40
+66,Bluetooth Earbuds,59.95,70
+67,,75,30
+68,Smart Doorbell,99.99,25
+69,Security Camera,79.99,35
+70,  smart thermostat  ,129.99,15
+71,Power Strip,19.99,90
+72,USB Adapter,9.99,120
+73,,65,20
+74,Wireless Keyboard,49.99,50
+75,Portable Monitor,149.99,30
+76,  gaming headset  ,69.99,40
+77,SD Card,14.99,100
+78,Mouse Bungee,12.99,80
+79,,85,25
+80,Smart Light Strip,29.99,60
+81,USB-C Cable,11.99,-150
+82,  laptop sleeve  ,19.99,70
+83,Webcam Cover,4.99,200
+84,HDMI Switch,24.99,50
+85,,95,15
+86,Portable Projector,199.99,20
+87,Smart Lock,99.99,30
+88,  wireless router  ,89.99,40
+89,USB Microphone,59.99,35
+90,External SSD,119.99,25
+91,,70,20
+92,Tablet Stand,14.99,80
+93,  gaming chair  ,199.99,10
+94,Power Adapter,19.99,90
+95,Bluetooth Adapter,9.99,100
+96,,60,30
+97,Smart Speaker,49.99,50
+98,  monitor arm  ,39.99,40
+99,Camera Lens,99.99,20
+100,USB Fan,14.99578,-60
